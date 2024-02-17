@@ -1,24 +1,10 @@
 [
   {
-    "ClubId": 1,
-    "Club_Name": "Burton Buggy Club",
-    "Club_Address": "Test Address",
-    "Club_Website": "www.test.com",
-    "Club_Email": "test@test.com",
-    "Club_Telephone": "0111223344",
-    "Start_Date": "2024-01-01",
-    "End_Date": "2024-02-01",
-    "Picture": null
+    "ContactSubTypeId": 1,
+    "Sub_Type": "Burton Buggy Club"
   },
   {
-    "ClubId": 2,
-    "Club_Name": "Tamworth Club",
-    "Club_Address": "Test Tam Address",
-    "Club_Website": "www.testTam.com",
-    "Club_Email": "test@testtam.com",
-    "Club_Telephone": "0111223366",
-    "Start_Date": "2024-02-01",
-    "End_Date": "2024-03-01",
-    "Picture": null
+    "ContactSubTypeId": 1,
+    "Sub_Type": "Burton Buggy Club"
   }
 ]
