@@ -1,10 +1,22 @@
 [
   {
     "ContactTypeId": 1,
-    "Type": "Burton Buggy Club"
+    "Type": "Address"
   },
   {
-    "ContactTypeId": 1,
-    "Type": "Burton Buggy Club"
+    "ContactTypeId": 2,
+    "Type": "Email"
+  },
+  {
+    "ContactTypeId": 3,
+    "Type": "Telephone"
+  },
+  {
+    "ContactTypeId": 4,
+    "Type": "Website"
+  },
+  {
+    "ContactTypeId": 5,
+    "Type": "Social"
   }
 ]

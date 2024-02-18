@@ -1,14 +1,16 @@
 [
   {
     "EventId": 1,
-    "ClubId": "Burton Buggy Club",
-    "Event_Date": "Test Address",
-    "Event_Name": "www.test.com"
+    "ClubId": 1,
+    "SeriesId": 1,
+    "Event_Date": "2024-02-20",
+    "Event_Name": "BBC Winter Series"
   },
   {
-    "EventId": 1,
-    "ClubId": "Burton Buggy Club",
-    "Event_Date": "Test Address",
-    "Event_Name": "www.test.com"
+    "EventId": 2,
+    "ClubId": 2,
+    "SeriesId": 1,
+    "Event_Date": "2024-02-10",
+    "Event_Name": "Tamworth Winter Series"
   }
 ]

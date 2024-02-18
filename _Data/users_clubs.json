@@ -1,14 +1,38 @@
 [
   {
     "id": 1,
-    "UserId": "Tamworth Club",
-    "ClubId": "Test Tam Address",
-    "Join_Date": "www.testTam.com"
+    "UserId": 1,
+    "ClubId": 1,
+    "Join_Date": "2020-01-01"
   },
   {
     "id": 2,
-    "UserId": "Tamworth Club",
-    "ClubId": "Test Tam Address",
-    "Join_Date": "www.testTam.com"
+    "UserId": 1,
+    "ClubId": 2,
+    "Join_Date": "2020-01-01"
+  },
+  {
+    "id": 3,
+    "UserId": 1,
+    "ClubId": 3,
+    "Join_Date": "2020-01-01"
+  },
+  {
+    "id": 1,
+    "UserId": 2,
+    "ClubId": 1,
+    "Join_Date": "2020-02-01"
+  },
+  {
+    "id": 2,
+    "UserId": 2,
+    "ClubId": 2,
+    "Join_Date": "2020-02-01"
+  },
+  {
+    "id": 3,
+    "UserId": 2,
+    "ClubId": 3,
+    "Join_Date": "2020-02-01"
   }
 ]

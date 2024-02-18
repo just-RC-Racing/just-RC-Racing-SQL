@@ -1,14 +1,32 @@
 [
   {
     "SeriesId": 1,
-    "Series_Name": "Burton Buggy Club",
-    "Series_Start_Date": "Test Address",
-    "Series_End_Date": "www.test.com"
+    "Series_Name": "BBC Winter Series",
+    "Series_Start_Date": "2023-09-01",
+    "Series_End_Date": "2024-03-31"
   },
   {
-    "SeriesId": 1,
-    "Series_Name": "Burton Buggy Club",
-    "Series_Start_Date": "Test Address",
-    "Series_End_Date": "www.test.com"
+    "SeriesId": 2,
+    "Series_Name": "Tamworth Winter Series",
+    "Series_Start_Date": "2023-09-01",
+    "Series_End_Date": "2024-03-31"
+  },
+  {
+    "SeriesId": 3,
+    "Series_Name": "CARS Winter Series",
+    "Series_Start_Date": "2023-09-01",
+    "Series_End_Date": "2024-03-31"
+  },
+  {
+    "SeriesId": 4,
+    "Series_Name": "BRCA GT12 2023-24",
+    "Series_Start_Date": "2023-09-01",
+    "Series_End_Date": "2024-02-04"
+  },
+  {
+    "SeriesId": 5,
+    "Series_Name": "BRCA LMP 2023-24",
+    "Series_Start_Date": "2023-09-01",
+    "Series_End_Date": "2024-03-31"
   }
 ]

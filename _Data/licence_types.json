@@ -1,10 +1,14 @@
 [
   {
     "LicenceId": 1,
-    "Licence": "Burton Buggy Club"
+    "Licence": "BRCA"
   },
   {
-    "LicenceId": 1,
-    "Licence": "Burton Buggy Club"
+    "LicenceId": 2,
+    "Licence": "EFRA"
+  },
+  {
+    "LicenceId": 3,
+    "Licence": "ROAR"
   }
 ]

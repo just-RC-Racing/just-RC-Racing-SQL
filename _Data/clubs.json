@@ -2,23 +2,34 @@
   {
     "ClubId": 1,
     "Club_Name": "Burton Buggy Club",
-    "Club_Address": "Test Address",
-    "Club_Website": "www.test.com",
-    "Club_Email": "test@test.com",
-    "Club_Telephone": "0111223344",
-    "Start_Date": "2024-01-01",
-    "End_Date": "2024-02-01",
+    "Club_Address": "Gresley Old Hall, Church Gresley, Swadlincote, Derbyshire. DE11 9QW",
+    "Club_Website": "http://www.burtonbuggyclub.co.uk/",
+    "Club_Email": "burton_buggy_club@hotmail.com",
+    "Club_Telephone": "07340413793",
+    "Start_Date": "2016-01-01",
+    "End_Date": null,
     "Picture": null
   },
   {
     "ClubId": 2,
     "Club_Name": "Tamworth Club",
-    "Club_Address": "Test Tam Address",
-    "Club_Website": "www.testTam.com",
-    "Club_Email": "test@testtam.com",
-    "Club_Telephone": "0111223366",
-    "Start_Date": "2024-02-01",
-    "End_Date": "2024-03-01",
+    "Club_Address": "Tinkers Green Rd, Wilnecote, Tamworth. B77 5LF",
+    "Club_Website": "https://www.trrac.co.uk/",
+    "Club_Email": "trracinfo@gmail.com",
+    "Club_Telephone": null,
+    "Start_Date": "2010-02-01",
+    "End_Date": null,
+    "Picture": null
+  },
+  {
+    "ClubId": 3,
+    "Club_Name": "Chesterfield Club",
+    "Club_Address": "Grange St, Alfreton DE55 7JA",
+    "Club_Website": "http://www.carsrcracing.co.uk/",
+    "Club_Email": "info@carsrcracing.co.uk",
+    "Club_Telephone": null,
+    "Start_Date": "2000-03-01",
+    "End_Date": null,
     "Picture": null
   }
 ]

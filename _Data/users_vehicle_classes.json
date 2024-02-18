@@ -1,14 +1,26 @@
 [
   {
     "id": 1,
-    "UserId": "Burton Buggy Club",
-    "VehicleClassId": "Test Address",
-    "Transponder": "www.test.com"
+    "UserId": 1,
+    "VehicleClassId": 1,
+    "Transponder": 2149097
   },
   {
-    "id": 1,
-    "UserId": "Burton Buggy Club",
-    "VehicleClassId": "Test Address",
-    "Transponder": "www.test.com"
+    "id": 2,
+    "UserId": 1,
+    "VehicleClassId": 3,
+    "Transponder": 9549034
+  },
+  {
+    "id": 3,
+    "UserId": 2,
+    "VehicleClassId": 1,
+    "Transponder": 123456
+  },
+  {
+    "id": 4,
+    "UserId": 2,
+    "VehicleClassId": 2,
+    "Transponder": 9876543
   }
 ]

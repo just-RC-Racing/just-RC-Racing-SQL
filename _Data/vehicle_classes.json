@@ -1,10 +1,18 @@
 [
   {
     "VehicleClassId": 1,
-    "Class": "Burton Buggy Club"
+    "Class": "Onroad 1/12th GT12"
   },
   {
-    "VehicleClassId": 1,
-    "Class": "Burton Buggy Club"
+    "VehicleClassId": 2,
+    "Class": "Onroad 1/12th LMP"
+  },
+  {
+    "VehicleClassId": 3,
+    "Class": "Onroad 1/8th Electric"
+  },
+  {
+    "VehicleClassId": 4,
+    "Class": "Onroad 1/8th IC"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "UserEventId": 1,
-    "UserId": "Burton Buggy Club",
-    "EventClassId": "Test Address"
+    "UserId": 1,
+    "EventClassId": 1
   },
   {
-    "UserEventId": 1,
-    "UserId": "Burton Buggy Club",
-    "EventClassId": "Test Address"
+    "UserEventId": 2,
+    "UserId": 2,
+    "EventClassId": 1
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "UserEventId": "Burton Buggy Club",
-    "Final": "Test Address",
-    "Leg": "www.test.com",
-    "Qualify_Position": "test@test.com",
-    "Finish_Position": "0111223344"
+    "UserEventId": 1,
+    "Final": "A",
+    "Leg": 1,
+    "Qualify_Position": 2,
+    "Finish_Position": 1
   },
   {
-    "id": 1,
-    "UserEventId": "Burton Buggy Club",
-    "Final": "Test Address",
-    "Leg": "www.test.com",
-    "Qualify_Position": "test@test.com",
-    "Finish_Position": "0111223344"
+    "id": 2,
+    "UserEventId": 2,
+    "Final": "A",
+    "Leg": 1,
+    "Qualify_Position": 1,
+    "Finish_Position": 2
   }
 ]

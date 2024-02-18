@@ -1,12 +1,17 @@
 [
   {
     "EventClassId": 1,
-    "EventId": "Burton Buggy Club",
-    "VehicleClassId": "Test Address"
+    "EventId": 1,
+    "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
-    "EventId": "Burton Buggy Club",
-    "VehicleClassId": "Test Address"
+    "EventClassId": 2,
+    "EventId": 2,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 3,
+    "EventId": 2,
+    "VehicleClassId": 2
   }
 ]
