@@ -2,11 +2,13 @@
   {
     "id": 1,
     "UserId": 1,
-    "LicenceId": "15903"
+    "LicenceId": 1,
+    "Licence_Refernce": "15903"
   },
   {
     "id": 2,
     "UserId": 2,
-    "LicenceId": "15904"
+    "LicenceId": 1,
+    "Licence_Refernce": "15904"
   }
 ]
