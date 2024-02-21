@@ -1,0 +1,17 @@
+[
+  {
+    "ClubRankId": 1,
+    "ClubId": 1,
+    "Rank": "F1"
+  },
+  {
+    "ClubRankId": 2,
+    "ClubId": 1,
+    "Rank": "F2"
+  },
+  {
+    "ClubRankId": 3,
+    "ClubId": 1,
+    "Rank": "F3"
+  }
+]
