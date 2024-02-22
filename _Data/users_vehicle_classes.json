@@ -2,291 +2,514 @@
   {
     "UserId": 1,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 2,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 3,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "Team Powers",
+    "Tyres": "Contact"
   },
   {
     "UserId": 4,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": null,
+    "Chassis": null,
+    "Power": null,
+    "Tyres": null
   },
   {
     "UserId": 5,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM Pro",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 6,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Mardave",
+    "Chassis": "PULSAR",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 7,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM CC",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 8,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 9,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 10,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 11,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 12,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 13,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 14,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 15,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": null,
+    "Chassis": null,
+    "Power": null,
+    "Tyres": null
   },
   {
     "UserId": 16,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 17,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM Pro",
+    "Power": "Muchmore V4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 19,
     "VehicleClassId": 1,
-    "Transponder": 123456
-  },
-  {
-    "UserId": 19,
-    "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM CC",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 20,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM CC",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 21,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM CC",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 22,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM CC",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 23,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 24,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 25,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Mardave",
+    "Chassis": "PULSAR",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 26,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": null,
+    "Chassis": null,
+    "Power": null,
+    "Tyres": null
   },
   {
     "UserId": 27,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Mardave",
+    "Chassis": "PULSAR",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 28,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Zen Racing",
+    "Chassis": "DTY-GT12",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 29,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "SupaStox",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 30,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 31,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 32,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Zen Racing",
+    "Chassis": "DTY-GT12",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 33,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 34,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Zen Racing",
+    "Chassis": "DTY-GT12",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 35,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Zen Racing",
+    "Chassis": "DTY-GT12",
+    "Power": "Muchmore V4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 36,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Zen Racing",
+    "Chassis": "DTY-GT12",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 37,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "Muchmore V4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 38,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 39,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 40,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "Team Powers",
+    "Tyres": "Contact"
   },
   {
     "UserId": 41,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": null,
+    "Chassis": null,
+    "Power": null,
+    "Tyres": null
   },
   {
     "UserId": 42,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 43,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 44,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM Pro",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 45,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "Muchmore V4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 46,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": null,
+    "Chassis": null,
+    "Power": null,
+    "Tyres": null
   },
   {
     "UserId": 47,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Mardave",
+    "Chassis": "PULSAR",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 48,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": null,
+    "Chassis": null,
+    "Power": null,
+    "Tyres": null
   },
   {
     "UserId": 49,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM Pro",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 50,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Zen Racing",
+    "Chassis": "DTY-GT12",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 51,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 52,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 53,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "HobbyWing G3",
+    "Tyres": "Contact"
   },
   {
     "UserId": 54,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM Pro",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 55,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "Muchmore V4",
+    "Tyres": "Contact"
   },
   {
     "UserId": 56,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "Slot-Machine",
+    "Tyres": "Contact"
   },
   {
     "UserId": 57,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "X-Factor",
+    "Tyres": "Contact"
   },
   {
     "UserId": 58,
     "VehicleClassId": 1,
-    "Transponder": 123456
+    "Transponder": 123456,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 2",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   }
 ]

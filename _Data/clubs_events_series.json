@@ -3,30 +3,45 @@
     "SeriesId": 1,
     "Series_Name": "Winter League 2023-24",
     "Series_Start_Date": "2023-10-01",
-    "Series_End_Date": "2024-02-28"
+    "Series_End_Date": "2024-02-28",
+    "Rounds": 11,
+    "Rounds_To_Count": 8,
+    "Tie_Break_Rule": "Countback"
   },
   {
     "SeriesId": 2,
     "Series_Name": "Tamworth Winter Series",
     "Series_Start_Date": "2023-09-01",
-    "Series_End_Date": "2024-03-31"
+    "Series_End_Date": "2024-03-31",
+    "Rounds": 11,
+    "Rounds_To_Count": 8,
+    "Tie_Break_Rule": "Countback"
   },
   {
     "SeriesId": 3,
     "Series_Name": "CARS Winter Series",
     "Series_Start_Date": "2023-09-01",
-    "Series_End_Date": "2024-03-31"
+    "Series_End_Date": "2024-03-31",
+    "Rounds": 11,
+    "Rounds_To_Count": 8,
+    "Tie_Break_Rule": "Countback"
   },
   {
     "SeriesId": 4,
     "Series_Name": "BRCA GT12 2023-24",
     "Series_Start_Date": "2023-09-01",
-    "Series_End_Date": "2024-02-04"
+    "Series_End_Date": "2024-02-04",
+    "Rounds": 11,
+    "Rounds_To_Count": 8,
+    "Tie_Break_Rule": "Countback"
   },
   {
     "SeriesId": 5,
     "Series_Name": "BRCA LMP 2023-24",
     "Series_Start_Date": "2023-09-01",
-    "Series_End_Date": "2024-03-31"
+    "Series_End_Date": "2024-03-31",
+    "Rounds": 11,
+    "Rounds_To_Count": 8,
+    "Tie_Break_Rule": "Countback"
   }
 ]
