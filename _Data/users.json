@@ -153,15 +153,6 @@
     "Picture": null
   },
   {
-    "UserId": 18,
-    "FirstName": "Emma",
-    "LastName": "Dutton",
-    "DOB": "1900-01-01",
-    "Junior": 0,
-    "Sex": "F",
-    "Picture": null
-  },
-  {
     "UserId": 19,
     "FirstName": "Emma",
     "LastName": "Mears",

@@ -1,0 +1,1754 @@
+[
+  {
+    "SeriesId": 1,
+    "UserEventId": 52,
+    "UserId": 1,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 74,
+    "UserId": 1,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 145,
+    "UserId": 1,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 176,
+    "UserId": 1,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 216,
+    "UserId": 1,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 284,
+    "UserId": 1,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 17,
+    "UserId": 2,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 65,
+    "UserId": 2,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 88,
+    "UserId": 2,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 108,
+    "UserId": 2,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 130,
+    "UserId": 2,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 190,
+    "UserId": 2,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 225,
+    "UserId": 2,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 266,
+    "UserId": 2,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 7,
+    "UserId": 3,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 31,
+    "UserId": 3,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 58,
+    "UserId": 3,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 80,
+    "UserId": 3,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 104,
+    "UserId": 3,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 117,
+    "UserId": 3,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 149,
+    "UserId": 3,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 181,
+    "UserId": 3,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 214,
+    "UserId": 3,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 249,
+    "UserId": 3,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 283,
+    "UserId": 3,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 153,
+    "UserId": 4,
+    "Points": 70
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 226,
+    "UserId": 4,
+    "Points": 70
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 253,
+    "UserId": 4,
+    "Points": 70
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 287,
+    "UserId": 4,
+    "Points": 70
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 46,
+    "UserId": 5,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 71,
+    "UserId": 5,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 93,
+    "UserId": 5,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 113,
+    "UserId": 5,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 136,
+    "UserId": 5,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 169,
+    "UserId": 5,
+    "Points": 90
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 205,
+    "UserId": 5,
+    "Points": 90
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 238,
+    "UserId": 5,
+    "Points": 87
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 268,
+    "UserId": 5,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 300,
+    "UserId": 5,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 18,
+    "UserId": 6,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 171,
+    "UserId": 7,
+    "Points": 88
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 240,
+    "UserId": 7,
+    "Points": 86
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 299,
+    "UserId": 7,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 4,
+    "UserId": 8,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 33,
+    "UserId": 8,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 53,
+    "UserId": 8,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 75,
+    "UserId": 8,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 98,
+    "UserId": 8,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 121,
+    "UserId": 8,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 148,
+    "UserId": 8,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 184,
+    "UserId": 8,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 208,
+    "UserId": 8,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 246,
+    "UserId": 8,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 279,
+    "UserId": 8,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 10,
+    "UserId": 9,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 35,
+    "UserId": 9,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 62,
+    "UserId": 9,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 78,
+    "UserId": 9,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 102,
+    "UserId": 9,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 122,
+    "UserId": 9,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 150,
+    "UserId": 9,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 186,
+    "UserId": 9,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 217,
+    "UserId": 9,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 252,
+    "UserId": 9,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 282,
+    "UserId": 9,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 160,
+    "UserId": 10,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 193,
+    "UserId": 10,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 64,
+    "UserId": 11,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 86,
+    "UserId": 11,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 155,
+    "UserId": 11,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 188,
+    "UserId": 11,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 218,
+    "UserId": 11,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 289,
+    "UserId": 11,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 27,
+    "UserId": 12,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 57,
+    "UserId": 12,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 76,
+    "UserId": 12,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 100,
+    "UserId": 12,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 116,
+    "UserId": 12,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 143,
+    "UserId": 12,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 210,
+    "UserId": 12,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 244,
+    "UserId": 12,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 277,
+    "UserId": 12,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 166,
+    "UserId": 13,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 233,
+    "UserId": 13,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 6,
+    "UserId": 14,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 29,
+    "UserId": 14,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 55,
+    "UserId": 14,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 101,
+    "UserId": 14,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 118,
+    "UserId": 14,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 146,
+    "UserId": 14,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 182,
+    "UserId": 14,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 25,
+    "UserId": 15,
+    "Points": 71
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 14,
+    "UserId": 16,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 39,
+    "UserId": 16,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 63,
+    "UserId": 16,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 87,
+    "UserId": 16,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 107,
+    "UserId": 16,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 127,
+    "UserId": 16,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 158,
+    "UserId": 16,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 192,
+    "UserId": 16,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 222,
+    "UserId": 16,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 259,
+    "UserId": 16,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 295,
+    "UserId": 16,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 137,
+    "UserId": 17,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 236,
+    "UserId": 17,
+    "Points": 88
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 271,
+    "UserId": 17,
+    "Points": 89
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 203,
+    "UserId": 19,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 23,
+    "UserId": 19,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 72,
+    "UserId": 19,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 45,
+    "UserId": 19,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 92,
+    "UserId": 19,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 204,
+    "UserId": 20,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 269,
+    "UserId": 20,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 13,
+    "UserId": 21,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 8,
+    "UserId": 22,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 30,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 56,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 77,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 97,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 120,
+    "UserId": 22,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 142,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 174,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 245,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 275,
+    "UserId": 22,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 32,
+    "UserId": 23,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 59,
+    "UserId": 23,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 79,
+    "UserId": 23,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 99,
+    "UserId": 23,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 123,
+    "UserId": 23,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 144,
+    "UserId": 23,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 183,
+    "UserId": 23,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 213,
+    "UserId": 23,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 276,
+    "UserId": 23,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 194,
+    "UserId": 24,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 224,
+    "UserId": 24,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 257,
+    "UserId": 24,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 291,
+    "UserId": 24,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 34,
+    "UserId": 25,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 147,
+    "UserId": 25,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 179,
+    "UserId": 25,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 211,
+    "UserId": 25,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 248,
+    "UserId": 25,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 281,
+    "UserId": 25,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 237,
+    "UserId": 26,
+    "Points": 69
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 21,
+    "UserId": 27,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 41,
+    "UserId": 27,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 68,
+    "UserId": 27,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 94,
+    "UserId": 27,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 111,
+    "UserId": 27,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 134,
+    "UserId": 27,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 167,
+    "UserId": 27,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 232,
+    "UserId": 27,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 267,
+    "UserId": 27,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 298,
+    "UserId": 27,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 11,
+    "UserId": 28,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 36,
+    "UserId": 28,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 61,
+    "UserId": 28,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 83,
+    "UserId": 28,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 106,
+    "UserId": 28,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 157,
+    "UserId": 28,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 191,
+    "UserId": 28,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 220,
+    "UserId": 28,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 292,
+    "UserId": 28,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 163,
+    "UserId": 29,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 201,
+    "UserId": 29,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 229,
+    "UserId": 29,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 263,
+    "UserId": 29,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 125,
+    "UserId": 30,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 154,
+    "UserId": 30,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 185,
+    "UserId": 30,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 241,
+    "UserId": 31,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 231,
+    "UserId": 32,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 262,
+    "UserId": 32,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 297,
+    "UserId": 32,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 37,
+    "UserId": 33,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 85,
+    "UserId": 33,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 255,
+    "UserId": 33,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 50,
+    "UserId": 34,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 177,
+    "UserId": 34,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 274,
+    "UserId": 34,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 1,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 24,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 48,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 73,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 95,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 114,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 141,
+    "UserId": 35,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 173,
+    "UserId": 35,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 206,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 243,
+    "UserId": 35,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 273,
+    "UserId": 35,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 5,
+    "UserId": 36,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 28,
+    "UserId": 36,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 54,
+    "UserId": 36,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 84,
+    "UserId": 36,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 119,
+    "UserId": 36,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 20,
+    "UserId": 37,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 43,
+    "UserId": 37,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 69,
+    "UserId": 37,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 91,
+    "UserId": 37,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 112,
+    "UserId": 37,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 133,
+    "UserId": 37,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 164,
+    "UserId": 37,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 202,
+    "UserId": 37,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 235,
+    "UserId": 37,
+    "Points": 89
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 270,
+    "UserId": 37,
+    "Points": 90
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 162,
+    "UserId": 38,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 199,
+    "UserId": 38,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 228,
+    "UserId": 38,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 261,
+    "UserId": 38,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 296,
+    "UserId": 38,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 215,
+    "UserId": 39,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 251,
+    "UserId": 39,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 140,
+    "UserId": 40,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 172,
+    "UserId": 40,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 227,
+    "UserId": 41,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 256,
+    "UserId": 41,
+    "Points": 100
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 209,
+    "UserId": 42,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 247,
+    "UserId": 42,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 285,
+    "UserId": 42,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 12,
+    "UserId": 43,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 38,
+    "UserId": 43,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 60,
+    "UserId": 43,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 81,
+    "UserId": 43,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 105,
+    "UserId": 43,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 126,
+    "UserId": 43,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 156,
+    "UserId": 43,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 187,
+    "UserId": 43,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 223,
+    "UserId": 43,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 258,
+    "UserId": 43,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 288,
+    "UserId": 43,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 170,
+    "UserId": 44,
+    "Points": 89
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 9,
+    "UserId": 45,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 47,
+    "UserId": 45,
+    "Points": 93
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 239,
+    "UserId": 45,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 290,
+    "UserId": 45,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 264,
+    "UserId": 46,
+    "Points": 69
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 272,
+    "UserId": 47,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 2,
+    "UserId": 48,
+    "Points": 72
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 26,
+    "UserId": 48,
+    "Points": 72
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 66,
+    "UserId": 49,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 82,
+    "UserId": 49,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 103,
+    "UserId": 49,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 124,
+    "UserId": 49,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 151,
+    "UserId": 49,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 189,
+    "UserId": 49,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 219,
+    "UserId": 49,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 254,
+    "UserId": 49,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 286,
+    "UserId": 49,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 51,
+    "UserId": 50,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 175,
+    "UserId": 50,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 212,
+    "UserId": 50,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 22,
+    "UserId": 51,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 44,
+    "UserId": 51,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 70,
+    "UserId": 51,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 168,
+    "UserId": 52,
+    "Points": 91
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 234,
+    "UserId": 52,
+    "Points": 90
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 250,
+    "UserId": 53,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 280,
+    "UserId": 53,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 16,
+    "UserId": 54,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 3,
+    "UserId": 55,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 49,
+    "UserId": 55,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 96,
+    "UserId": 55,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 115,
+    "UserId": 55,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 152,
+    "UserId": 55,
+    "Points": 92
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 178,
+    "UserId": 55,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 207,
+    "UserId": 55,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 242,
+    "UserId": 55,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 278,
+    "UserId": 55,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 19,
+    "UserId": 56,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 42,
+    "UserId": 56,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 67,
+    "UserId": 56,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 90,
+    "UserId": 56,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 129,
+    "UserId": 56,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 159,
+    "UserId": 56,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 195,
+    "UserId": 56,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 221,
+    "UserId": 56,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 260,
+    "UserId": 56,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 293,
+    "UserId": 56,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 132,
+    "UserId": 57,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 165,
+    "UserId": 57,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 198,
+    "UserId": 57,
+    "Points": 96
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 15,
+    "UserId": 58,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 40,
+    "UserId": 58,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 89,
+    "UserId": 58,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 109,
+    "UserId": 58,
+    "Points": 99
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 131,
+    "UserId": 58,
+    "Points": 98
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 161,
+    "UserId": 58,
+    "Points": 97
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 200,
+    "UserId": 58,
+    "Points": 95
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 230,
+    "UserId": 58,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 265,
+    "UserId": 58,
+    "Points": 94
+  },
+  {
+    "SeriesId": 1,
+    "UserEventId": 294,
+    "UserId": 58,
+    "Points": 97
+  }
+]
