@@ -5,52 +5,52 @@
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 2,
     "EventId": 2,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 3,
     "EventId": 3,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 4,
     "EventId": 4,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 5,
     "EventId": 5,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 6,
     "EventId": 6,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 7,
     "EventId": 7,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 8,
     "EventId": 8,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 9,
     "EventId": 9,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 10,
     "EventId": 10,
     "VehicleClassId": 1
   },
   {
-    "EventClassId": 1,
+    "EventClassId": 11,
     "EventId": 11,
     "VehicleClassId": 1
   }
