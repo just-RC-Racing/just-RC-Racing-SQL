@@ -4,76 +4,412 @@
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2023-10-24",
-    "Event_Name": "Winter League Round 1"
+    "Event_Name": "BBC Winter League 2023-24 Round 1"
   },
   {
     "EventId": 2,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2023-10-31",
-    "Event_Name": "Winter League Round 2"
+    "Event_Name": "BBC Winter League 2023-24 Round 2"
   },
   {
     "EventId": 3,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2023-11-07",
-    "Event_Name": "Winter League Round 3"
+    "Event_Name": "BBC Winter League 2023-24 Round 3"
   },
   {
     "EventId": 4,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2023-11-14",
-    "Event_Name": "Winter League Round 4"
+    "Event_Name": "BBC Winter League 2023-24 Round 4"
   },
   {
     "EventId": 5,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2023-11-28",
-    "Event_Name": "Winter League Round 5"
+    "Event_Name": "BBC Winter League 2023-24 Round 5"
   },
   {
     "EventId": 6,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2024-01-02",
-    "Event_Name": "Winter League Round 6"
+    "Event_Name": "BBC Winter League 2023-24 Round 6"
   },
   {
     "EventId": 7,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2024-01-16",
-    "Event_Name": "Winter League Round 7"
+    "Event_Name": "BBC Winter League 2023-24 Round 7"
   },
   {
     "EventId": 8,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2024-01-23",
-    "Event_Name": "Winter League Round 8"
+    "Event_Name": "BBC Winter League 2023-24 Round 8"
   },
   {
     "EventId": 9,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2024-01-30",
-    "Event_Name": "Winter League Round 9"
+    "Event_Name": "BBC Winter League 2023-24 Round 9"
   },
   {
     "EventId": 10,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2024-02-06",
-    "Event_Name": "Winter League Round 10"
+    "Event_Name": "BBC Winter League 2023-24 Round 10"
   },
   {
     "EventId": 11,
     "ClubId": 1,
     "SeriesId": 1,
     "Event_Date": "2024-02-20",
-    "Event_Name": "Winter League Round 11"
+    "Event_Name": "BBC Winter League 2023-24 Round 11"
+  },
+  {
+    "EventId": 12,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2023-08-22",
+    "Event_Name": "BBC Club Night August 2023"
+  },
+  {
+    "EventId": 13,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2024-02-13",
+    "Event_Name": "BBC Club Night Febuary 2023"
+  },
+  {
+    "EventId": 14,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2024-01-09",
+    "Event_Name": "BBC Club Night January 2024"
+  },
+  {
+    "EventId": 15,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2023-07-04",
+    "Event_Name": "BBC Club Night July 2023"
+  },
+  {
+    "EventId": 16,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2023-11-21",
+    "Event_Name": "BBC Club Night November 2023"
+  },
+  {
+    "EventId": 17,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2023-10-17",
+    "Event_Name": "BBC Club Night October 2023"
+  },
+  {
+    "EventId": 18,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2023-09-26",
+    "Event_Name": "BBC Club Night September 2023"
+  },
+  {
+    "EventId": 19,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Event_Date": "2023-12-19",
+    "Event_Name": "BBC Club Night XMAS 2023"
+  },
+  {
+    "EventId": 20,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-06-27",
+    "Event_Name": "BBC Summer League 2023 Round 1"
+  },
+  {
+    "EventId": 21,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-07-11",
+    "Event_Name": "BBC Summer League 2023 Round 2"
+  },
+  {
+    "EventId": 22,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-07-18",
+    "Event_Name": "BBC Summer League 2023 Round 3"
+  },
+  {
+    "EventId": 23,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-07-25",
+    "Event_Name": "BBC Summer League 2023 Round 4"
+  },
+  {
+    "EventId": 24,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-08-01",
+    "Event_Name": "BBC Summer League 2023 Round 5"
+  },
+  {
+    "EventId": 25,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-08-08",
+    "Event_Name": "BBC Summer League 2023 Round 6"
+  },
+  {
+    "EventId": 26,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-08-29",
+    "Event_Name": "BBC Summer League 2023 Round 7"
+  },
+  {
+    "EventId": 27,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-09-05",
+    "Event_Name": "BBC Summer League 2023 Round 8"
+  },
+  {
+    "EventId": 28,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-09-12",
+    "Event_Name": "BBC Summer League 2023 Round 9"
+  },
+  {
+    "EventId": 29,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-09-19",
+    "Event_Name": "BBC Summer League 2023 Round 10"
+  },
+  {
+    "EventId": 30,
+    "ClubId": 1,
+    "SeriesId": 3,
+    "Event_Date": "2023-10-03",
+    "Event_Name": "BBC Summer League 2023 Round 11"
+  },
+  {
+    "EventId": 31,
+    "ClubId": 1,
+    "SeriesId": 2,
+    "Event_Date": "2023-03-07",
+    "Event_Name": "BBC Super League 2023 Round 1"
+  },
+  {
+    "EventId": 32,
+    "ClubId": 1,
+    "SeriesId": 2,
+    "Event_Date": "2023-04-18",
+    "Event_Name": "BBC Super League 2023 Round 2"
+  },
+  {
+    "EventId": 33,
+    "ClubId": 1,
+    "SeriesId": 2,
+    "Event_Date": "2023-06-13",
+    "Event_Name": "BBC Super League 2023 Round 3"
+  },
+  {
+    "EventId": 34,
+    "ClubId": 1,
+    "SeriesId": 2,
+    "Event_Date": "2023-08-15",
+    "Event_Name": "BBC Super League 2023 Round 4"
+  },
+  {
+    "EventId": 35,
+    "ClubId": 1,
+    "SeriesId": 2,
+    "Event_Date": "2023-10-10",
+    "Event_Name": "BBC Super League 2023 Round 5"
+  },
+  {
+    "EventId": 36,
+    "ClubId": 1,
+    "SeriesId": 2,
+    "Event_Date": "2023-12-05",
+    "Event_Name": "BBC Super League 2023 Round 6"
+  },
+  {
+    "EventId": 37,
+    "ClubId": 7,
+    "SeriesId": 10,
+    "Event_Date": "2023-04-30",
+    "Event_Name": "BRCA 8th Circuit 2023 GP"
+  },
+  {
+    "EventId": 38,
+    "ClubId": 5,
+    "SeriesId": 10,
+    "Event_Date": "2023-04-02",
+    "Event_Name": "BRCA 8th Circuit 2023 Round 1"
+  },
+  {
+    "EventId": 39,
+    "ClubId": 10,
+    "SeriesId": 10,
+    "Event_Date": "2023-05-21",
+    "Event_Name": "BRCA 8th Circuit 2023 Round 2"
+  },
+  {
+    "EventId": 40,
+    "ClubId": 7,
+    "SeriesId": 10,
+    "Event_Date": "2023-06-11",
+    "Event_Name": "BRCA 8th Circuit 2023 Round 3"
+  },
+  {
+    "EventId": 41,
+    "ClubId": 4,
+    "SeriesId": 10,
+    "Event_Date": "2023-07-23",
+    "Event_Name": "BRCA 8th Circuit 2023 Round 4"
+  },
+  {
+    "EventId": 42,
+    "ClubId": 7,
+    "SeriesId": 10,
+    "Event_Date": "2023-08-27",
+    "Event_Name": "BRCA 8th Circuit 2023 Round 5"
+  },
+  {
+    "EventId": 43,
+    "ClubId": 5,
+    "SeriesId": 10,
+    "Event_Date": "2023-04-02",
+    "Event_Name": "BRCA 8th Circuit 2023 Round 6"
+  },
+  {
+    "EventId": 44,
+    "ClubId": 9,
+    "SeriesId": 9,
+    "Event_Date": "2023-09-24",
+    "Event_Name": "BRCA GT12 National Series 2023 Round 1"
+  },
+  {
+    "EventId": 45,
+    "ClubId": 2,
+    "SeriesId": 9,
+    "Event_Date": "2023-10-22",
+    "Event_Name": "BRCA GT12 National Series 2023 Round 2"
+  },
+  {
+    "EventId": 46,
+    "ClubId": 3,
+    "SeriesId": 9,
+    "Event_Date": "2023-11-26",
+    "Event_Name": "BRCA GT12 National Series 2023 Round 3"
+  },
+  {
+    "EventId": 47,
+    "ClubId": 6,
+    "SeriesId": 9,
+    "Event_Date": "2023-12-17",
+    "Event_Name": "BRCA GT12 National Series 2023 Round 4"
+  },
+  {
+    "EventId": 48,
+    "ClubId": 8,
+    "SeriesId": 9,
+    "Event_Date": "2024-01-28",
+    "Event_Name": "BRCA GT12 National Series 2023 Round 5"
+  },
+  {
+    "EventId": 49,
+    "ClubId": 2,
+    "SeriesId": 8,
+    "Event_Date": "2023-12-30",
+    "Event_Name": "Schumacher GT12 GP 2023"
+  },
+  {
+    "EventId": 50,
+    "ClubId": 2,
+    "SeriesId": 5,
+    "Event_Date": "2023-12-02",
+    "Event_Name": "TRRAC Club Night December 2023"
+  },
+  {
+    "EventId": 51,
+    "ClubId": 2,
+    "SeriesId": 5,
+    "Event_Date": "2023-10-07",
+    "Event_Name": "TRRAC Club Night October 2023"
+  },
+  {
+    "EventId": 52,
+    "ClubId": 2,
+    "SeriesId": 6,
+    "Event_Date": "2023-10-21",
+    "Event_Name": "TRRAC Series 2024 Round 1"
+  },
+  {
+    "EventId": 53,
+    "ClubId": 2,
+    "SeriesId": 6,
+    "Event_Date": "2023-11-04",
+    "Event_Name": "TRRAC Series 2024 Round 2"
+  },
+  {
+    "EventId": 54,
+    "ClubId": 2,
+    "SeriesId": 6,
+    "Event_Date": "2024-01-13",
+    "Event_Name": "TRRAC Series 2024 Round 3"
+  },
+  {
+    "EventId": 55,
+    "ClubId": 2,
+    "SeriesId": 6,
+    "Event_Date": "2024-02-10",
+    "Event_Name": "TRRAC Series 2024 Round 4"
+  },
+  {
+    "EventId": 56,
+    "ClubId": 2,
+    "SeriesId": 7,
+    "Event_Date": "2023-05-17",
+    "Event_Name": "TRRAC Summer Series 2023 Round 1"
+  },
+  {
+    "EventId": 57,
+    "ClubId": 2,
+    "SeriesId": 7,
+    "Event_Date": "2023-06-15",
+    "Event_Name": "TRRAC Summer Series 2023 Round 2"
+  },
+  {
+    "EventId": 58,
+    "ClubId": 2,
+    "SeriesId": 7,
+    "Event_Date": "2023-07-15",
+    "Event_Name": "TRRAC Summer Series 2023 Round 3"
+  },
+  {
+    "EventId": 59,
+    "ClubId": 2,
+    "SeriesId": 7,
+    "Event_Date": "2023-09-02",
+    "Event_Name": "TRRAC Summer Series 2023 Round 4"
   }
 ]

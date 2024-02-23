@@ -5,14 +5,26 @@
   },
   {
     "VehicleClassId": 2,
-    "Class": "Onroad 1/12th LMP"
+    "Class": "Onroad 1/12th LMP Stock"
   },
   {
     "VehicleClassId": 3,
-    "Class": "Onroad 1/8th Electric"
+    "Class": "Onroad 1/12th LMP Mod"
   },
   {
     "VehicleClassId": 4,
+    "Class": "Onroad 1/12th LMP GT"
+  },
+  {
+    "VehicleClassId": 5,
+    "Class": "Onroad 1/10th Fronties"
+  },
+  {
+    "VehicleClassId": 6,
     "Class": "Onroad 1/8th IC"
+  },
+  {
+    "VehicleClassId": 7,
+    "Class": "Onroad 1/8th Electric"
   }
 ]

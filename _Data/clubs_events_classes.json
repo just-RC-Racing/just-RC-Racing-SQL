@@ -53,5 +53,440 @@
     "EventClassId": 11,
     "EventId": 11,
     "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 12,
+    "EventId": 12,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 13,
+    "EventId": 13,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 14,
+    "EventId": 14,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 15,
+    "EventId": 14,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 16,
+    "EventId": 15,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 17,
+    "EventId": 15,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 18,
+    "EventId": 16,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 19,
+    "EventId": 17,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 20,
+    "EventId": 18,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 21,
+    "EventId": 19,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 22,
+    "EventId": 20,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 23,
+    "EventId": 20,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 24,
+    "EventId": 21,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 25,
+    "EventId": 21,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 26,
+    "EventId": 22,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 27,
+    "EventId": 22,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 28,
+    "EventId": 23,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 29,
+    "EventId": 24,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 30,
+    "EventId": 25,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 31,
+    "EventId": 26,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 32,
+    "EventId": 27,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 33,
+    "EventId": 28,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 34,
+    "EventId": 29,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 35,
+    "EventId": 30,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 36,
+    "EventId": 31,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 37,
+    "EventId": 31,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 38,
+    "EventId": 32,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 39,
+    "EventId": 32,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 40,
+    "EventId": 33,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 41,
+    "EventId": 33,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 42,
+    "EventId": 34,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 43,
+    "EventId": 34,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 44,
+    "EventId": 35,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 45,
+    "EventId": 36,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 46,
+    "EventId": 37,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 47,
+    "EventId": 37,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 48,
+    "EventId": 38,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 49,
+    "EventId": 38,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 50,
+    "EventId": 39,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 51,
+    "EventId": 39,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 52,
+    "EventId": 40,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 53,
+    "EventId": 40,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 54,
+    "EventId": 41,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 55,
+    "EventId": 41,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 56,
+    "EventId": 42,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 57,
+    "EventId": 42,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 58,
+    "EventId": 43,
+    "VehicleClassId": 6
+  },
+  {
+    "EventClassId": 59,
+    "EventId": 43,
+    "VehicleClassId": 7
+  },
+  {
+    "EventClassId": 60,
+    "EventId": 44,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 61,
+    "EventId": 45,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 62,
+    "EventId": 46,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 63,
+    "EventId": 47,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 64,
+    "EventId": 48,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 65,
+    "EventId": 49,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 66,
+    "EventId": 49,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 67,
+    "EventId": 50,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 68,
+    "EventId": 50,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 69,
+    "EventId": 50,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 70,
+    "EventId": 51,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 71,
+    "EventId": 51,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 72,
+    "EventId": 51,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 73,
+    "EventId": 52,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 74,
+    "EventId": 52,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 75,
+    "EventId": 52,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 76,
+    "EventId": 53,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 77,
+    "EventId": 53,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 78,
+    "EventId": 53,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 79,
+    "EventId": 54,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 80,
+    "EventId": 54,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 81,
+    "EventId": 54,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 82,
+    "EventId": 55,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 83,
+    "EventId": 55,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 84,
+    "EventId": 55,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 85,
+    "EventId": 56,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 86,
+    "EventId": 56,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 87,
+    "EventId": 56,
+    "VehicleClassId": 3
+  },
+  {
+    "EventClassId": 88,
+    "EventId": 56,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 89,
+    "EventId": 57,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 90,
+    "EventId": 57,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 91,
+    "EventId": 57,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 92,
+    "EventId": 58,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 93,
+    "EventId": 58,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 94,
+    "EventId": 58,
+    "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 95,
+    "EventId": 58,
+    "VehicleClassId": 5
+  },
+  {
+    "EventClassId": 96,
+    "EventId": 59,
+    "VehicleClassId": 2
+  },
+  {
+    "EventClassId": 97,
+    "EventId": 59,
+    "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 98,
+    "EventId": 59,
+    "VehicleClassId": 5
   }
 ]

@@ -1,1502 +1,8562 @@
 [
   {
     "UserEventId": 1,
-    "UserId": 35,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 2,
-    "UserId": 48,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 3,
-    "UserId": 55,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 4,
-    "UserId": 8,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 5,
-    "UserId": 36,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 6,
-    "UserId": 14,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 7,
-    "UserId": 3,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 8,
-    "UserId": 22,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 9,
-    "UserId": 45,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 10,
-    "UserId": 9,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 11,
-    "UserId": 28,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 12,
-    "UserId": 43,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 13,
-    "UserId": 21,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 14,
-    "UserId": 16,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 15,
-    "UserId": 58,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 16,
-    "UserId": 54,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 17,
-    "UserId": 2,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 18,
-    "UserId": 6,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 19,
-    "UserId": 56,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 20,
-    "UserId": 37,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 21,
-    "UserId": 27,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 22,
-    "UserId": 51,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 23,
-    "UserId": 19,
-    "EventClassId": 1
-  },
-  {
-    "UserEventId": 24,
-    "UserId": 35,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 25,
-    "UserId": 15,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 26,
-    "UserId": 48,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 27,
-    "UserId": 12,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 28,
-    "UserId": 36,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 29,
-    "UserId": 14,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 30,
-    "UserId": 22,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 31,
-    "UserId": 3,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 32,
-    "UserId": 23,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 33,
-    "UserId": 8,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 34,
-    "UserId": 25,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 35,
-    "UserId": 9,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 36,
-    "UserId": 28,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 37,
-    "UserId": 33,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 38,
-    "UserId": 43,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 39,
-    "UserId": 16,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 40,
-    "UserId": 58,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 41,
-    "UserId": 27,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 42,
-    "UserId": 56,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 43,
-    "UserId": 37,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 44,
-    "UserId": 51,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 45,
-    "UserId": 19,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 46,
-    "UserId": 5,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 47,
-    "UserId": 45,
-    "EventClassId": 2
-  },
-  {
-    "UserEventId": 48,
-    "UserId": 35,
-    "EventClassId": 3
-  },
-  {
-    "UserEventId": 49,
-    "UserId": 55,
-    "EventClassId": 3
-  },
-  {
-    "UserEventId": 50,
-    "UserId": 34,
-    "EventClassId": 3
-  },
-  {
-    "UserEventId": 51,
-    "UserId": 50,
-    "EventClassId": 3
-  },
-  {
-    "UserEventId": 52,
     "UserId": 1,
     "EventClassId": 3
   },
   {
-    "UserEventId": 53,
-    "UserId": 8,
+    "UserEventId": 2,
+    "UserId": 1,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 3,
+    "UserId": 1,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 4,
+    "UserId": 1,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 5,
+    "UserId": 1,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 6,
+    "UserId": 1,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 7,
+    "UserId": 1,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 8,
+    "UserId": 1,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 9,
+    "UserId": 1,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 10,
+    "UserId": 1,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 11,
+    "UserId": 1,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 12,
+    "UserId": 1,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 13,
+    "UserId": 1,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 14,
+    "UserId": 1,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 15,
+    "UserId": 1,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 16,
+    "UserId": 1,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 17,
+    "UserId": 1,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 18,
+    "UserId": 1,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 19,
+    "UserId": 1,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 20,
+    "UserId": 1,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 21,
+    "UserId": 1,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 22,
+    "UserId": 1,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 23,
+    "UserId": 1,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 24,
+    "UserId": 1,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 25,
+    "UserId": 1,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 26,
+    "UserId": 1,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 27,
+    "UserId": 1,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 28,
+    "UserId": 1,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 29,
+    "UserId": 2,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 30,
+    "UserId": 2,
     "EventClassId": 3
+  },
+  {
+    "UserEventId": 31,
+    "UserId": 2,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 32,
+    "UserId": 2,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 33,
+    "UserId": 2,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 34,
+    "UserId": 2,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 35,
+    "UserId": 2,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 36,
+    "UserId": 2,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 37,
+    "UserId": 2,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 38,
+    "UserId": 2,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 39,
+    "UserId": 2,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 40,
+    "UserId": 2,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 41,
+    "UserId": 2,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 42,
+    "UserId": 2,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 43,
+    "UserId": 2,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 44,
+    "UserId": 2,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 45,
+    "UserId": 2,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 46,
+    "UserId": 2,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 47,
+    "UserId": 2,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 48,
+    "UserId": 2,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 49,
+    "UserId": 2,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 50,
+    "UserId": 2,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 51,
+    "UserId": 2,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 52,
+    "UserId": 2,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 53,
+    "UserId": 3,
+    "EventClassId": 1
   },
   {
     "UserEventId": 54,
-    "UserId": 36,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 2
   },
   {
     "UserEventId": 55,
-    "UserId": 14,
+    "UserId": 3,
     "EventClassId": 3
   },
   {
     "UserEventId": 56,
-    "UserId": 22,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 4
   },
   {
     "UserEventId": 57,
-    "UserId": 12,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 5
   },
   {
     "UserEventId": 58,
     "UserId": 3,
-    "EventClassId": 3
+    "EventClassId": 6
   },
   {
     "UserEventId": 59,
-    "UserId": 23,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 7
   },
   {
     "UserEventId": 60,
-    "UserId": 43,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 8
   },
   {
     "UserEventId": 61,
-    "UserId": 28,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 9
   },
   {
     "UserEventId": 62,
-    "UserId": 9,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 10
   },
   {
     "UserEventId": 63,
-    "UserId": 16,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 11
   },
   {
     "UserEventId": 64,
-    "UserId": 11,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 14
   },
   {
     "UserEventId": 65,
-    "UserId": 2,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 16
   },
   {
     "UserEventId": 66,
-    "UserId": 49,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 18
   },
   {
     "UserEventId": 67,
-    "UserId": 56,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 19
   },
   {
     "UserEventId": 68,
-    "UserId": 27,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 20
   },
   {
     "UserEventId": 69,
-    "UserId": 37,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 21
   },
   {
     "UserEventId": 70,
-    "UserId": 51,
-    "EventClassId": 3
+    "UserId": 3,
+    "EventClassId": 22
   },
   {
     "UserEventId": 71,
+    "UserId": 3,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 72,
+    "UserId": 3,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 73,
+    "UserId": 3,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 74,
+    "UserId": 3,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 75,
+    "UserId": 3,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 76,
+    "UserId": 4,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 77,
+    "UserId": 4,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 78,
+    "UserId": 4,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 79,
+    "UserId": 4,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 80,
+    "UserId": 4,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 81,
+    "UserId": 4,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 82,
+    "UserId": 5,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 83,
     "UserId": 5,
     "EventClassId": 3
   },
   {
-    "UserEventId": 72,
-    "UserId": 19,
-    "EventClassId": 3
-  },
-  {
-    "UserEventId": 73,
-    "UserId": 35,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 74,
-    "UserId": 1,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 75,
-    "UserId": 8,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 76,
-    "UserId": 12,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 77,
-    "UserId": 22,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 78,
-    "UserId": 9,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 79,
-    "UserId": 23,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 80,
-    "UserId": 3,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 81,
-    "UserId": 43,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 82,
-    "UserId": 49,
-    "EventClassId": 4
-  },
-  {
-    "UserEventId": 83,
-    "UserId": 28,
-    "EventClassId": 4
-  },
-  {
     "UserEventId": 84,
-    "UserId": 36,
+    "UserId": 5,
     "EventClassId": 4
   },
   {
     "UserEventId": 85,
-    "UserId": 33,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 5
   },
   {
     "UserEventId": 86,
-    "UserId": 11,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 6
   },
   {
     "UserEventId": 87,
-    "UserId": 16,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 7
   },
   {
     "UserEventId": 88,
-    "UserId": 2,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 8
   },
   {
     "UserEventId": 89,
-    "UserId": 58,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 9
   },
   {
     "UserEventId": 90,
-    "UserId": 56,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 10
   },
   {
     "UserEventId": 91,
-    "UserId": 37,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 11
   },
   {
     "UserEventId": 92,
-    "UserId": 19,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 12
   },
   {
     "UserEventId": 93,
     "UserId": 5,
-    "EventClassId": 4
+    "EventClassId": 13
   },
   {
     "UserEventId": 94,
-    "UserId": 27,
-    "EventClassId": 4
+    "UserId": 5,
+    "EventClassId": 14
   },
   {
     "UserEventId": 95,
-    "UserId": 35,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 16
   },
   {
     "UserEventId": 96,
-    "UserId": 55,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 18
   },
   {
     "UserEventId": 97,
-    "UserId": 22,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 19
   },
   {
     "UserEventId": 98,
-    "UserId": 8,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 20
   },
   {
     "UserEventId": 99,
-    "UserId": 23,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 21
   },
   {
     "UserEventId": 100,
-    "UserId": 12,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 22
   },
   {
     "UserEventId": 101,
-    "UserId": 14,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 24
   },
   {
     "UserEventId": 102,
-    "UserId": 9,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 26
   },
   {
     "UserEventId": 103,
-    "UserId": 49,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 28
   },
   {
     "UserEventId": 104,
-    "UserId": 3,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 29
   },
   {
     "UserEventId": 105,
-    "UserId": 43,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 30
   },
   {
     "UserEventId": 106,
-    "UserId": 28,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 31
   },
   {
     "UserEventId": 107,
-    "UserId": 16,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 32
   },
   {
     "UserEventId": 108,
-    "UserId": 2,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 33
   },
   {
     "UserEventId": 109,
-    "UserId": 58,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 34
   },
   {
     "UserEventId": 110,
-    "UserId": 10,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 35
   },
   {
     "UserEventId": 111,
-    "UserId": 27,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 42
   },
   {
     "UserEventId": 112,
-    "UserId": 37,
-    "EventClassId": 5
+    "UserId": 5,
+    "EventClassId": 44
   },
   {
     "UserEventId": 113,
     "UserId": 5,
-    "EventClassId": 5
+    "EventClassId": 45
   },
   {
     "UserEventId": 114,
-    "UserId": 35,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 1
   },
   {
     "UserEventId": 115,
-    "UserId": 55,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 26
   },
   {
     "UserEventId": 116,
-    "UserId": 12,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 28
   },
   {
     "UserEventId": 117,
-    "UserId": 3,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 29
   },
   {
     "UserEventId": 118,
-    "UserId": 14,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 30
   },
   {
     "UserEventId": 119,
-    "UserId": 36,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 31
   },
   {
     "UserEventId": 120,
-    "UserId": 22,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 42
   },
   {
     "UserEventId": 121,
-    "UserId": 8,
-    "EventClassId": 6
+    "UserId": 6,
+    "EventClassId": 96
   },
   {
     "UserEventId": 122,
-    "UserId": 9,
+    "UserId": 7,
     "EventClassId": 6
   },
   {
     "UserEventId": 123,
-    "UserId": 23,
-    "EventClassId": 6
+    "UserId": 7,
+    "EventClassId": 7
   },
   {
     "UserEventId": 124,
-    "UserId": 49,
-    "EventClassId": 6
+    "UserId": 7,
+    "EventClassId": 9
   },
   {
     "UserEventId": 125,
-    "UserId": 30,
-    "EventClassId": 6
+    "UserId": 7,
+    "EventClassId": 11
   },
   {
     "UserEventId": 126,
-    "UserId": 43,
-    "EventClassId": 6
+    "UserId": 7,
+    "EventClassId": 84
   },
   {
     "UserEventId": 127,
-    "UserId": 16,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 1
   },
   {
     "UserEventId": 128,
-    "UserId": 47,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 2
   },
   {
     "UserEventId": 129,
-    "UserId": 56,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 3
   },
   {
     "UserEventId": 130,
-    "UserId": 2,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 4
   },
   {
     "UserEventId": 131,
-    "UserId": 58,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 5
   },
   {
     "UserEventId": 132,
-    "UserId": 57,
+    "UserId": 8,
     "EventClassId": 6
   },
   {
     "UserEventId": 133,
-    "UserId": 37,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 7
   },
   {
     "UserEventId": 134,
-    "UserId": 27,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 8
   },
   {
     "UserEventId": 135,
-    "UserId": 13,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 9
   },
   {
     "UserEventId": 136,
-    "UserId": 5,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 10
   },
   {
     "UserEventId": 137,
-    "UserId": 17,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 11
   },
   {
     "UserEventId": 138,
-    "UserId": 44,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 12
   },
   {
     "UserEventId": 139,
-    "UserId": 7,
-    "EventClassId": 6
+    "UserId": 8,
+    "EventClassId": 13
   },
   {
     "UserEventId": 140,
-    "UserId": 40,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 14
   },
   {
     "UserEventId": 141,
-    "UserId": 35,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 18
   },
   {
     "UserEventId": 142,
-    "UserId": 22,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 19
   },
   {
     "UserEventId": 143,
-    "UserId": 12,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 20
   },
   {
     "UserEventId": 144,
-    "UserId": 23,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 21
   },
   {
     "UserEventId": 145,
-    "UserId": 1,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 26
   },
   {
     "UserEventId": 146,
-    "UserId": 14,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 28
   },
   {
     "UserEventId": 147,
-    "UserId": 25,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 29
   },
   {
     "UserEventId": 148,
     "UserId": 8,
-    "EventClassId": 7
+    "EventClassId": 30
   },
   {
     "UserEventId": 149,
-    "UserId": 3,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 31
   },
   {
     "UserEventId": 150,
-    "UserId": 9,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 33
   },
   {
     "UserEventId": 151,
-    "UserId": 49,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 34
   },
   {
     "UserEventId": 152,
-    "UserId": 55,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 35
   },
   {
     "UserEventId": 153,
-    "UserId": 4,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 38
   },
   {
     "UserEventId": 154,
-    "UserId": 30,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 42
   },
   {
     "UserEventId": 155,
-    "UserId": 11,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 44
   },
   {
     "UserEventId": 156,
-    "UserId": 43,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 45
   },
   {
     "UserEventId": 157,
-    "UserId": 28,
-    "EventClassId": 7
+    "UserId": 8,
+    "EventClassId": 65
   },
   {
     "UserEventId": 158,
-    "UserId": 16,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 1
   },
   {
     "UserEventId": 159,
-    "UserId": 56,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 2
   },
   {
     "UserEventId": 160,
-    "UserId": 10,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 3
   },
   {
     "UserEventId": 161,
-    "UserId": 58,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 4
   },
   {
     "UserEventId": 162,
-    "UserId": 38,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 5
   },
   {
     "UserEventId": 163,
-    "UserId": 29,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 6
   },
   {
     "UserEventId": 164,
-    "UserId": 37,
+    "UserId": 9,
     "EventClassId": 7
   },
   {
     "UserEventId": 165,
-    "UserId": 57,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 8
   },
   {
     "UserEventId": 166,
-    "UserId": 13,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 9
   },
   {
     "UserEventId": 167,
-    "UserId": 27,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 10
   },
   {
     "UserEventId": 168,
-    "UserId": 52,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 11
   },
   {
     "UserEventId": 169,
-    "UserId": 5,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 12
   },
   {
     "UserEventId": 170,
-    "UserId": 44,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 13
   },
   {
     "UserEventId": 171,
-    "UserId": 7,
-    "EventClassId": 7
+    "UserId": 9,
+    "EventClassId": 14
   },
   {
     "UserEventId": 172,
-    "UserId": 40,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 16
   },
   {
     "UserEventId": 173,
-    "UserId": 35,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 18
   },
   {
     "UserEventId": 174,
-    "UserId": 22,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 19
   },
   {
     "UserEventId": 175,
-    "UserId": 50,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 20
   },
   {
     "UserEventId": 176,
-    "UserId": 1,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 24
   },
   {
     "UserEventId": 177,
-    "UserId": 34,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 26
   },
   {
     "UserEventId": 178,
-    "UserId": 55,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 28
   },
   {
     "UserEventId": 179,
-    "UserId": 25,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 29
   },
   {
     "UserEventId": 180,
-    "UserId": 39,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 30
   },
   {
     "UserEventId": 181,
-    "UserId": 3,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 31
   },
   {
     "UserEventId": 182,
-    "UserId": 14,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 32
   },
   {
     "UserEventId": 183,
-    "UserId": 23,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 34
   },
   {
     "UserEventId": 184,
-    "UserId": 8,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 36
   },
   {
     "UserEventId": 185,
-    "UserId": 30,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 38
   },
   {
     "UserEventId": 186,
     "UserId": 9,
-    "EventClassId": 8
+    "EventClassId": 42
   },
   {
     "UserEventId": 187,
-    "UserId": 43,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 44
   },
   {
     "UserEventId": 188,
-    "UserId": 11,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 45
   },
   {
     "UserEventId": 189,
-    "UserId": 49,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 49
   },
   {
     "UserEventId": 190,
-    "UserId": 2,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 51
   },
   {
     "UserEventId": 191,
-    "UserId": 28,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 57
   },
   {
     "UserEventId": 192,
-    "UserId": 16,
-    "EventClassId": 8
+    "UserId": 9,
+    "EventClassId": 61
   },
   {
     "UserEventId": 193,
+    "UserId": 9,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 194,
+    "UserId": 9,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 195,
+    "UserId": 9,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 196,
+    "UserId": 9,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 197,
+    "UserId": 9,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 198,
+    "UserId": 9,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 199,
+    "UserId": 10,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 200,
+    "UserId": 10,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 201,
     "UserId": 10,
     "EventClassId": 8
   },
   {
-    "UserEventId": 194,
-    "UserId": 24,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 195,
-    "UserId": 56,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 196,
-    "UserId": 47,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 197,
-    "UserId": 41,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 198,
-    "UserId": 57,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 199,
-    "UserId": 38,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 200,
-    "UserId": 58,
-    "EventClassId": 8
-  },
-  {
-    "UserEventId": 201,
-    "UserId": 29,
-    "EventClassId": 8
-  },
-  {
     "UserEventId": 202,
-    "UserId": 37,
-    "EventClassId": 8
+    "UserId": 10,
+    "EventClassId": 14
   },
   {
     "UserEventId": 203,
-    "UserId": 19,
-    "EventClassId": 8
+    "UserId": 10,
+    "EventClassId": 21
   },
   {
     "UserEventId": 204,
-    "UserId": 20,
-    "EventClassId": 8
+    "UserId": 10,
+    "EventClassId": 45
   },
   {
     "UserEventId": 205,
-    "UserId": 5,
-    "EventClassId": 8
+    "UserId": 11,
+    "EventClassId": 3
   },
   {
     "UserEventId": 206,
-    "UserId": 35,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 4
   },
   {
     "UserEventId": 207,
-    "UserId": 55,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 7
   },
   {
     "UserEventId": 208,
-    "UserId": 8,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 8
   },
   {
     "UserEventId": 209,
-    "UserId": 42,
+    "UserId": 11,
     "EventClassId": 9
   },
   {
     "UserEventId": 210,
-    "UserId": 12,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 11
   },
   {
     "UserEventId": 211,
-    "UserId": 25,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 14
   },
   {
     "UserEventId": 212,
-    "UserId": 50,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 16
   },
   {
     "UserEventId": 213,
-    "UserId": 23,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 19
   },
   {
     "UserEventId": 214,
-    "UserId": 3,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 21
   },
   {
     "UserEventId": 215,
-    "UserId": 39,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 22
   },
   {
     "UserEventId": 216,
-    "UserId": 1,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 26
   },
   {
     "UserEventId": 217,
-    "UserId": 9,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 29
   },
   {
     "UserEventId": 218,
     "UserId": 11,
-    "EventClassId": 9
+    "EventClassId": 30
   },
   {
     "UserEventId": 219,
-    "UserId": 49,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 33
   },
   {
     "UserEventId": 220,
-    "UserId": 28,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 34
   },
   {
     "UserEventId": 221,
-    "UserId": 56,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 35
   },
   {
     "UserEventId": 222,
-    "UserId": 16,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 36
   },
   {
     "UserEventId": 223,
-    "UserId": 43,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 38
   },
   {
     "UserEventId": 224,
-    "UserId": 24,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 40
   },
   {
     "UserEventId": 225,
-    "UserId": 2,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 44
   },
   {
     "UserEventId": 226,
-    "UserId": 4,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 45
   },
   {
     "UserEventId": 227,
-    "UserId": 41,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 61
   },
   {
     "UserEventId": 228,
-    "UserId": 38,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 62
   },
   {
     "UserEventId": 229,
-    "UserId": 29,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 64
   },
   {
     "UserEventId": 230,
-    "UserId": 58,
-    "EventClassId": 9
+    "UserId": 11,
+    "EventClassId": 65
   },
   {
     "UserEventId": 231,
-    "UserId": 32,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 2
   },
   {
     "UserEventId": 232,
-    "UserId": 27,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 3
   },
   {
     "UserEventId": 233,
-    "UserId": 13,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 4
   },
   {
     "UserEventId": 234,
-    "UserId": 52,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 5
   },
   {
     "UserEventId": 235,
-    "UserId": 37,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 6
   },
   {
     "UserEventId": 236,
-    "UserId": 17,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 7
   },
   {
     "UserEventId": 237,
-    "UserId": 26,
+    "UserId": 12,
     "EventClassId": 9
   },
   {
     "UserEventId": 238,
-    "UserId": 5,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 10
   },
   {
     "UserEventId": 239,
-    "UserId": 45,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 11
   },
   {
     "UserEventId": 240,
-    "UserId": 7,
-    "EventClassId": 9
+    "UserId": 12,
+    "EventClassId": 16
   },
   {
     "UserEventId": 241,
-    "UserId": 31,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 18
   },
   {
     "UserEventId": 242,
-    "UserId": 55,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 19
   },
   {
     "UserEventId": 243,
-    "UserId": 35,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 20
   },
   {
     "UserEventId": 244,
     "UserId": 12,
-    "EventClassId": 10
+    "EventClassId": 22
   },
   {
     "UserEventId": 245,
-    "UserId": 22,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 28
   },
   {
     "UserEventId": 246,
-    "UserId": 8,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 29
   },
   {
     "UserEventId": 247,
-    "UserId": 42,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 30
   },
   {
     "UserEventId": 248,
-    "UserId": 25,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 32
   },
   {
     "UserEventId": 249,
-    "UserId": 3,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 33
   },
   {
     "UserEventId": 250,
-    "UserId": 53,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 34
   },
   {
     "UserEventId": 251,
-    "UserId": 39,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 35
   },
   {
     "UserEventId": 252,
-    "UserId": 9,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 36
   },
   {
     "UserEventId": 253,
-    "UserId": 4,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 40
   },
   {
     "UserEventId": 254,
-    "UserId": 49,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 42
   },
   {
     "UserEventId": 255,
-    "UserId": 33,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 44
   },
   {
     "UserEventId": 256,
-    "UserId": 41,
-    "EventClassId": 10
+    "UserId": 12,
+    "EventClassId": 45
   },
   {
     "UserEventId": 257,
-    "UserId": 24,
-    "EventClassId": 10
+    "UserId": 13,
+    "EventClassId": 6
   },
   {
     "UserEventId": 258,
-    "UserId": 43,
-    "EventClassId": 10
+    "UserId": 13,
+    "EventClassId": 7
   },
   {
     "UserEventId": 259,
+    "UserId": 13,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 260,
+    "UserId": 13,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 261,
+    "UserId": 13,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 262,
+    "UserId": 14,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 263,
+    "UserId": 14,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 264,
+    "UserId": 14,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 265,
+    "UserId": 14,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 266,
+    "UserId": 14,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 267,
+    "UserId": 14,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 268,
+    "UserId": 14,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 269,
+    "UserId": 14,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 270,
+    "UserId": 14,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 271,
+    "UserId": 14,
+    "EventClassId": 15
+  },
+  {
+    "UserEventId": 272,
+    "UserId": 14,
+    "EventClassId": 17
+  },
+  {
+    "UserEventId": 273,
+    "UserId": 14,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 274,
+    "UserId": 14,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 275,
+    "UserId": 14,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 276,
+    "UserId": 14,
+    "EventClassId": 23
+  },
+  {
+    "UserEventId": 277,
+    "UserId": 14,
+    "EventClassId": 25
+  },
+  {
+    "UserEventId": 278,
+    "UserId": 14,
+    "EventClassId": 27
+  },
+  {
+    "UserEventId": 279,
+    "UserId": 14,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 280,
+    "UserId": 14,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 281,
+    "UserId": 14,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 282,
+    "UserId": 14,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 283,
+    "UserId": 14,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 284,
+    "UserId": 14,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 285,
+    "UserId": 14,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 286,
+    "UserId": 14,
+    "EventClassId": 41
+  },
+  {
+    "UserEventId": 287,
+    "UserId": 14,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 288,
+    "UserId": 14,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 289,
+    "UserId": 14,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 290,
+    "UserId": 14,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 291,
+    "UserId": 14,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 292,
+    "UserId": 14,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 293,
+    "UserId": 14,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 294,
+    "UserId": 14,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 295,
+    "UserId": 14,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 296,
+    "UserId": 14,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 297,
+    "UserId": 14,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 298,
+    "UserId": 14,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 299,
+    "UserId": 14,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 300,
+    "UserId": 15,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 301,
+    "UserId": 15,
+    "EventClassId": 37
+  },
+  {
+    "UserEventId": 302,
+    "UserId": 15,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 303,
+    "UserId": 15,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 304,
+    "UserId": 15,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 305,
+    "UserId": 15,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 306,
+    "UserId": 15,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 307,
+    "UserId": 15,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 308,
+    "UserId": 15,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 309,
+    "UserId": 15,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 310,
+    "UserId": 15,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 311,
+    "UserId": 15,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 312,
+    "UserId": 15,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 313,
+    "UserId": 16,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 314,
+    "UserId": 16,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 315,
+    "UserId": 16,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 316,
+    "UserId": 16,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 317,
+    "UserId": 16,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 318,
+    "UserId": 16,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 319,
+    "UserId": 16,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 320,
+    "UserId": 16,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 321,
+    "UserId": 16,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 322,
     "UserId": 16,
     "EventClassId": 10
   },
   {
-    "UserEventId": 260,
-    "UserId": 56,
-    "EventClassId": 10
+    "UserEventId": 323,
+    "UserId": 16,
+    "EventClassId": 11
   },
   {
-    "UserEventId": 261,
-    "UserId": 38,
-    "EventClassId": 10
+    "UserEventId": 324,
+    "UserId": 16,
+    "EventClassId": 12
   },
   {
-    "UserEventId": 262,
-    "UserId": 32,
-    "EventClassId": 10
+    "UserEventId": 325,
+    "UserId": 16,
+    "EventClassId": 13
   },
   {
-    "UserEventId": 263,
-    "UserId": 29,
-    "EventClassId": 10
+    "UserEventId": 326,
+    "UserId": 16,
+    "EventClassId": 14
   },
   {
-    "UserEventId": 264,
-    "UserId": 46,
-    "EventClassId": 10
+    "UserEventId": 327,
+    "UserId": 16,
+    "EventClassId": 18
   },
   {
-    "UserEventId": 265,
-    "UserId": 58,
-    "EventClassId": 10
+    "UserEventId": 328,
+    "UserId": 16,
+    "EventClassId": 19
   },
   {
-    "UserEventId": 266,
-    "UserId": 2,
-    "EventClassId": 10
+    "UserEventId": 329,
+    "UserId": 16,
+    "EventClassId": 20
   },
   {
-    "UserEventId": 267,
-    "UserId": 27,
-    "EventClassId": 10
+    "UserEventId": 330,
+    "UserId": 16,
+    "EventClassId": 21
   },
   {
-    "UserEventId": 268,
-    "UserId": 5,
-    "EventClassId": 10
+    "UserEventId": 331,
+    "UserId": 16,
+    "EventClassId": 31
   },
   {
-    "UserEventId": 269,
-    "UserId": 20,
-    "EventClassId": 10
+    "UserEventId": 332,
+    "UserId": 16,
+    "EventClassId": 32
   },
   {
-    "UserEventId": 270,
-    "UserId": 37,
-    "EventClassId": 10
+    "UserEventId": 333,
+    "UserId": 16,
+    "EventClassId": 33
   },
   {
-    "UserEventId": 271,
+    "UserEventId": 334,
+    "UserId": 16,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 335,
+    "UserId": 16,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 336,
+    "UserId": 16,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 337,
+    "UserId": 16,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 338,
+    "UserId": 16,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 339,
+    "UserId": 17,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 340,
+    "UserId": 17,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 341,
     "UserId": 17,
     "EventClassId": 10
   },
   {
-    "UserEventId": 272,
-    "UserId": 47,
+    "UserEventId": 342,
+    "UserId": 17,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 343,
+    "UserId": 17,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 344,
+    "UserId": 17,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 345,
+    "UserId": 17,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 346,
+    "UserId": 17,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 347,
+    "UserId": 17,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 348,
+    "UserId": 18,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 349,
+    "UserId": 18,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 350,
+    "UserId": 19,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 351,
+    "UserId": 19,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 352,
+    "UserId": 19,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 353,
+    "UserId": 19,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 354,
+    "UserId": 19,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 355,
+    "UserId": 19,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 356,
+    "UserId": 19,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 357,
+    "UserId": 19,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 358,
+    "UserId": 19,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 359,
+    "UserId": 19,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 360,
+    "UserId": 19,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 361,
+    "UserId": 19,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 362,
+    "UserId": 19,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 363,
+    "UserId": 19,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 364,
+    "UserId": 20,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 365,
+    "UserId": 20,
     "EventClassId": 10
   },
   {
-    "UserEventId": 273,
-    "UserId": 35,
-    "EventClassId": 11
+    "UserEventId": 366,
+    "UserId": 20,
+    "EventClassId": 13
   },
   {
-    "UserEventId": 274,
-    "UserId": 34,
-    "EventClassId": 11
+    "UserEventId": 367,
+    "UserId": 20,
+    "EventClassId": 14
   },
   {
-    "UserEventId": 275,
+    "UserEventId": 368,
+    "UserId": 20,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 369,
+    "UserId": 20,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 370,
+    "UserId": 20,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 371,
+    "UserId": 21,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 372,
+    "UserId": 21,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 373,
+    "UserId": 21,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 374,
+    "UserId": 21,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 375,
+    "UserId": 21,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 376,
+    "UserId": 22,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 377,
+    "UserId": 22,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 378,
+    "UserId": 22,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 379,
+    "UserId": 22,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 380,
+    "UserId": 22,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 381,
+    "UserId": 22,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 382,
+    "UserId": 22,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 383,
+    "UserId": 22,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 384,
+    "UserId": 22,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 385,
     "UserId": 22,
     "EventClassId": 11
   },
   {
-    "UserEventId": 276,
+    "UserEventId": 386,
+    "UserId": 22,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 387,
+    "UserId": 22,
+    "EventClassId": 15
+  },
+  {
+    "UserEventId": 388,
+    "UserId": 22,
+    "EventClassId": 17
+  },
+  {
+    "UserEventId": 389,
+    "UserId": 22,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 390,
+    "UserId": 22,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 391,
+    "UserId": 22,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 392,
+    "UserId": 22,
+    "EventClassId": 23
+  },
+  {
+    "UserEventId": 393,
+    "UserId": 22,
+    "EventClassId": 25
+  },
+  {
+    "UserEventId": 394,
+    "UserId": 22,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 395,
+    "UserId": 22,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 396,
+    "UserId": 22,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 397,
+    "UserId": 22,
+    "EventClassId": 37
+  },
+  {
+    "UserEventId": 398,
+    "UserId": 22,
+    "EventClassId": 39
+  },
+  {
+    "UserEventId": 399,
+    "UserId": 22,
+    "EventClassId": 43
+  },
+  {
+    "UserEventId": 400,
+    "UserId": 22,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 401,
+    "UserId": 22,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 402,
+    "UserId": 22,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 403,
+    "UserId": 22,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 404,
+    "UserId": 22,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 405,
+    "UserId": 23,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 406,
+    "UserId": 23,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 407,
+    "UserId": 23,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 408,
+    "UserId": 23,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 409,
+    "UserId": 23,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 410,
+    "UserId": 23,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 411,
+    "UserId": 23,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 412,
+    "UserId": 23,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 413,
     "UserId": 23,
     "EventClassId": 11
   },
   {
-    "UserEventId": 277,
-    "UserId": 12,
-    "EventClassId": 11
+    "UserEventId": 414,
+    "UserId": 23,
+    "EventClassId": 14
   },
   {
-    "UserEventId": 278,
-    "UserId": 55,
-    "EventClassId": 11
+    "UserEventId": 415,
+    "UserId": 23,
+    "EventClassId": 18
   },
   {
-    "UserEventId": 279,
-    "UserId": 8,
-    "EventClassId": 11
+    "UserEventId": 416,
+    "UserId": 23,
+    "EventClassId": 21
   },
   {
-    "UserEventId": 280,
-    "UserId": 53,
-    "EventClassId": 11
+    "UserEventId": 417,
+    "UserId": 23,
+    "EventClassId": 44
   },
   {
-    "UserEventId": 281,
-    "UserId": 25,
-    "EventClassId": 11
+    "UserEventId": 418,
+    "UserId": 23,
+    "EventClassId": 45
   },
   {
-    "UserEventId": 282,
-    "UserId": 9,
-    "EventClassId": 11
+    "UserEventId": 419,
+    "UserId": 23,
+    "EventClassId": 61
   },
   {
-    "UserEventId": 283,
-    "UserId": 3,
-    "EventClassId": 11
+    "UserEventId": 420,
+    "UserId": 23,
+    "EventClassId": 62
   },
   {
-    "UserEventId": 284,
-    "UserId": 1,
-    "EventClassId": 11
+    "UserEventId": 421,
+    "UserId": 23,
+    "EventClassId": 64
   },
   {
-    "UserEventId": 285,
-    "UserId": 42,
-    "EventClassId": 11
+    "UserEventId": 422,
+    "UserId": 23,
+    "EventClassId": 90
   },
   {
-    "UserEventId": 286,
-    "UserId": 49,
-    "EventClassId": 11
+    "UserEventId": 423,
+    "UserId": 24,
+    "EventClassId": 8
   },
   {
-    "UserEventId": 287,
-    "UserId": 4,
-    "EventClassId": 11
+    "UserEventId": 424,
+    "UserId": 24,
+    "EventClassId": 9
   },
   {
-    "UserEventId": 288,
-    "UserId": 43,
-    "EventClassId": 11
+    "UserEventId": 425,
+    "UserId": 24,
+    "EventClassId": 10
   },
   {
-    "UserEventId": 289,
-    "UserId": 11,
-    "EventClassId": 11
-  },
-  {
-    "UserEventId": 290,
-    "UserId": 45,
-    "EventClassId": 11
-  },
-  {
-    "UserEventId": 291,
+    "UserEventId": 426,
     "UserId": 24,
     "EventClassId": 11
   },
   {
-    "UserEventId": 292,
-    "UserId": 28,
+    "UserEventId": 427,
+    "UserId": 24,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 428,
+    "UserId": 24,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 429,
+    "UserId": 24,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 430,
+    "UserId": 24,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 431,
+    "UserId": 24,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 432,
+    "UserId": 24,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 433,
+    "UserId": 24,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 434,
+    "UserId": 24,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 435,
+    "UserId": 24,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 436,
+    "UserId": 24,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 437,
+    "UserId": 24,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 438,
+    "UserId": 24,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 439,
+    "UserId": 24,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 440,
+    "UserId": 24,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 441,
+    "UserId": 24,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 442,
+    "UserId": 25,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 443,
+    "UserId": 25,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 444,
+    "UserId": 25,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 445,
+    "UserId": 25,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 446,
+    "UserId": 25,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 447,
+    "UserId": 25,
     "EventClassId": 11
   },
   {
-    "UserEventId": 293,
-    "UserId": 56,
-    "EventClassId": 11
+    "UserEventId": 448,
+    "UserId": 25,
+    "EventClassId": 12
   },
   {
-    "UserEventId": 294,
-    "UserId": 58,
-    "EventClassId": 11
+    "UserEventId": 449,
+    "UserId": 25,
+    "EventClassId": 13
   },
   {
-    "UserEventId": 295,
-    "UserId": 16,
-    "EventClassId": 11
+    "UserEventId": 450,
+    "UserId": 25,
+    "EventClassId": 14
   },
   {
-    "UserEventId": 296,
-    "UserId": 38,
-    "EventClassId": 11
+    "UserEventId": 451,
+    "UserId": 25,
+    "EventClassId": 16
   },
   {
-    "UserEventId": 297,
-    "UserId": 32,
-    "EventClassId": 11
+    "UserEventId": 452,
+    "UserId": 25,
+    "EventClassId": 22
   },
   {
-    "UserEventId": 298,
+    "UserEventId": 453,
+    "UserId": 25,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 454,
+    "UserId": 25,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 455,
+    "UserId": 25,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 456,
+    "UserId": 25,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 457,
+    "UserId": 25,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 458,
+    "UserId": 25,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 459,
+    "UserId": 25,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 460,
+    "UserId": 25,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 461,
+    "UserId": 25,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 462,
+    "UserId": 25,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 463,
+    "UserId": 25,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 464,
+    "UserId": 25,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 465,
+    "UserId": 25,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 466,
+    "UserId": 25,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 467,
+    "UserId": 25,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 468,
+    "UserId": 25,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 469,
+    "UserId": 25,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 470,
+    "UserId": 25,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 471,
+    "UserId": 25,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 472,
+    "UserId": 26,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 473,
+    "UserId": 27,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 474,
+    "UserId": 27,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 475,
+    "UserId": 27,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 476,
+    "UserId": 27,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 477,
+    "UserId": 27,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 478,
+    "UserId": 27,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 479,
+    "UserId": 27,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 480,
+    "UserId": 27,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 481,
+    "UserId": 27,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 482,
     "UserId": 27,
     "EventClassId": 11
   },
   {
-    "UserEventId": 299,
-    "UserId": 7,
+    "UserEventId": 483,
+    "UserId": 27,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 484,
+    "UserId": 27,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 485,
+    "UserId": 27,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 486,
+    "UserId": 27,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 487,
+    "UserId": 27,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 488,
+    "UserId": 27,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 489,
+    "UserId": 27,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 490,
+    "UserId": 27,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 491,
+    "UserId": 27,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 492,
+    "UserId": 27,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 493,
+    "UserId": 27,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 494,
+    "UserId": 27,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 495,
+    "UserId": 27,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 496,
+    "UserId": 27,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 497,
+    "UserId": 27,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 498,
+    "UserId": 27,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 499,
+    "UserId": 27,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 500,
+    "UserId": 28,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 501,
+    "UserId": 28,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 502,
+    "UserId": 28,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 503,
+    "UserId": 28,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 504,
+    "UserId": 28,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 505,
+    "UserId": 28,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 506,
+    "UserId": 28,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 507,
+    "UserId": 28,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 508,
+    "UserId": 28,
     "EventClassId": 11
   },
   {
-    "UserEventId": 300,
-    "UserId": 5,
+    "UserEventId": 509,
+    "UserId": 28,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 510,
+    "UserId": 28,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 511,
+    "UserId": 28,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 512,
+    "UserId": 28,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 513,
+    "UserId": 28,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 514,
+    "UserId": 28,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 515,
+    "UserId": 28,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 516,
+    "UserId": 28,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 517,
+    "UserId": 28,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 518,
+    "UserId": 28,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 519,
+    "UserId": 28,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 520,
+    "UserId": 28,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 521,
+    "UserId": 28,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 522,
+    "UserId": 28,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 523,
+    "UserId": 28,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 524,
+    "UserId": 28,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 525,
+    "UserId": 28,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 526,
+    "UserId": 28,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 527,
+    "UserId": 28,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 528,
+    "UserId": 28,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 529,
+    "UserId": 28,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 530,
+    "UserId": 28,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 531,
+    "UserId": 28,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 532,
+    "UserId": 28,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 533,
+    "UserId": 28,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 534,
+    "UserId": 28,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 535,
+    "UserId": 28,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 536,
+    "UserId": 28,
+    "EventClassId": 89
+  },
+  {
+    "UserEventId": 537,
+    "UserId": 28,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 538,
+    "UserId": 28,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 539,
+    "UserId": 29,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 540,
+    "UserId": 29,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 541,
+    "UserId": 29,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 542,
+    "UserId": 29,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 543,
+    "UserId": 29,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 544,
+    "UserId": 29,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 545,
+    "UserId": 29,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 546,
+    "UserId": 29,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 547,
+    "UserId": 29,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 548,
+    "UserId": 29,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 549,
+    "UserId": 29,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 550,
+    "UserId": 29,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 551,
+    "UserId": 29,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 552,
+    "UserId": 29,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 553,
+    "UserId": 30,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 554,
+    "UserId": 30,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 555,
+    "UserId": 30,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 556,
+    "UserId": 30,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 557,
+    "UserId": 31,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 558,
+    "UserId": 31,
+    "EventClassId": 17
+  },
+  {
+    "UserEventId": 559,
+    "UserId": 31,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 560,
+    "UserId": 32,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 561,
+    "UserId": 32,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 562,
+    "UserId": 32,
     "EventClassId": 11
+  },
+  {
+    "UserEventId": 563,
+    "UserId": 32,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 564,
+    "UserId": 32,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 565,
+    "UserId": 33,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 566,
+    "UserId": 33,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 567,
+    "UserId": 33,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 568,
+    "UserId": 33,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 569,
+    "UserId": 33,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 570,
+    "UserId": 33,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 571,
+    "UserId": 33,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 572,
+    "UserId": 33,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 573,
+    "UserId": 33,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 574,
+    "UserId": 33,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 575,
+    "UserId": 33,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 576,
+    "UserId": 33,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 577,
+    "UserId": 33,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 578,
+    "UserId": 33,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 579,
+    "UserId": 33,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 580,
+    "UserId": 33,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 581,
+    "UserId": 33,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 582,
+    "UserId": 33,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 583,
+    "UserId": 33,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 584,
+    "UserId": 33,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 585,
+    "UserId": 33,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 586,
+    "UserId": 33,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 587,
+    "UserId": 33,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 588,
+    "UserId": 33,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 589,
+    "UserId": 34,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 590,
+    "UserId": 34,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 591,
+    "UserId": 34,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 592,
+    "UserId": 34,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 593,
+    "UserId": 34,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 594,
+    "UserId": 34,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 595,
+    "UserId": 34,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 596,
+    "UserId": 34,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 597,
+    "UserId": 34,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 598,
+    "UserId": 34,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 599,
+    "UserId": 34,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 600,
+    "UserId": 34,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 601,
+    "UserId": 34,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 602,
+    "UserId": 34,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 603,
+    "UserId": 34,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 604,
+    "UserId": 34,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 605,
+    "UserId": 34,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 606,
+    "UserId": 34,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 607,
+    "UserId": 34,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 608,
+    "UserId": 34,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 609,
+    "UserId": 34,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 610,
+    "UserId": 34,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 611,
+    "UserId": 34,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 612,
+    "UserId": 34,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 613,
+    "UserId": 34,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 614,
+    "UserId": 34,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 615,
+    "UserId": 34,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 616,
+    "UserId": 35,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 617,
+    "UserId": 35,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 618,
+    "UserId": 35,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 619,
+    "UserId": 35,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 620,
+    "UserId": 35,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 621,
+    "UserId": 35,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 622,
+    "UserId": 35,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 623,
+    "UserId": 35,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 624,
+    "UserId": 35,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 625,
+    "UserId": 35,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 626,
+    "UserId": 35,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 627,
+    "UserId": 35,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 628,
+    "UserId": 35,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 629,
+    "UserId": 35,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 630,
+    "UserId": 35,
+    "EventClassId": 17
+  },
+  {
+    "UserEventId": 631,
+    "UserId": 35,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 632,
+    "UserId": 35,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 633,
+    "UserId": 35,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 634,
+    "UserId": 35,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 635,
+    "UserId": 35,
+    "EventClassId": 23
+  },
+  {
+    "UserEventId": 636,
+    "UserId": 35,
+    "EventClassId": 25
+  },
+  {
+    "UserEventId": 637,
+    "UserId": 35,
+    "EventClassId": 27
+  },
+  {
+    "UserEventId": 638,
+    "UserId": 35,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 639,
+    "UserId": 35,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 640,
+    "UserId": 35,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 641,
+    "UserId": 35,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 642,
+    "UserId": 35,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 643,
+    "UserId": 35,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 644,
+    "UserId": 35,
+    "EventClassId": 39
+  },
+  {
+    "UserEventId": 645,
+    "UserId": 35,
+    "EventClassId": 41
+  },
+  {
+    "UserEventId": 646,
+    "UserId": 35,
+    "EventClassId": 43
+  },
+  {
+    "UserEventId": 647,
+    "UserId": 35,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 648,
+    "UserId": 35,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 649,
+    "UserId": 35,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 650,
+    "UserId": 36,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 651,
+    "UserId": 36,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 652,
+    "UserId": 36,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 653,
+    "UserId": 36,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 654,
+    "UserId": 36,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 655,
+    "UserId": 36,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 656,
+    "UserId": 36,
+    "EventClassId": 17
+  },
+  {
+    "UserEventId": 657,
+    "UserId": 36,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 658,
+    "UserId": 36,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 659,
+    "UserId": 36,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 660,
+    "UserId": 36,
+    "EventClassId": 23
+  },
+  {
+    "UserEventId": 661,
+    "UserId": 36,
+    "EventClassId": 25
+  },
+  {
+    "UserEventId": 662,
+    "UserId": 36,
+    "EventClassId": 27
+  },
+  {
+    "UserEventId": 663,
+    "UserId": 36,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 664,
+    "UserId": 36,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 665,
+    "UserId": 36,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 666,
+    "UserId": 36,
+    "EventClassId": 41
+  },
+  {
+    "UserEventId": 667,
+    "UserId": 36,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 668,
+    "UserId": 37,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 669,
+    "UserId": 37,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 670,
+    "UserId": 37,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 671,
+    "UserId": 37,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 672,
+    "UserId": 37,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 673,
+    "UserId": 37,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 674,
+    "UserId": 37,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 675,
+    "UserId": 37,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 676,
+    "UserId": 37,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 677,
+    "UserId": 37,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 678,
+    "UserId": 37,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 679,
+    "UserId": 37,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 680,
+    "UserId": 37,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 681,
+    "UserId": 37,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 682,
+    "UserId": 37,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 683,
+    "UserId": 37,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 684,
+    "UserId": 37,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 685,
+    "UserId": 37,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 686,
+    "UserId": 37,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 687,
+    "UserId": 37,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 688,
+    "UserId": 37,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 689,
+    "UserId": 37,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 690,
+    "UserId": 37,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 691,
+    "UserId": 37,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 692,
+    "UserId": 37,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 693,
+    "UserId": 37,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 694,
+    "UserId": 37,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 695,
+    "UserId": 37,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 696,
+    "UserId": 37,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 697,
+    "UserId": 37,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 698,
+    "UserId": 37,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 699,
+    "UserId": 37,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 700,
+    "UserId": 37,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 701,
+    "UserId": 37,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 702,
+    "UserId": 37,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 703,
+    "UserId": 38,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 704,
+    "UserId": 38,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 705,
+    "UserId": 38,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 706,
+    "UserId": 38,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 707,
+    "UserId": 38,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 708,
+    "UserId": 38,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 709,
+    "UserId": 38,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 710,
+    "UserId": 38,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 711,
+    "UserId": 38,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 712,
+    "UserId": 39,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 713,
+    "UserId": 39,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 714,
+    "UserId": 39,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 715,
+    "UserId": 39,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 716,
+    "UserId": 39,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 717,
+    "UserId": 39,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 718,
+    "UserId": 39,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 719,
+    "UserId": 40,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 720,
+    "UserId": 40,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 721,
+    "UserId": 40,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 722,
+    "UserId": 40,
+    "EventClassId": 15
+  },
+  {
+    "UserEventId": 723,
+    "UserId": 40,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 724,
+    "UserId": 40,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 725,
+    "UserId": 40,
+    "EventClassId": 23
+  },
+  {
+    "UserEventId": 726,
+    "UserId": 40,
+    "EventClassId": 25
+  },
+  {
+    "UserEventId": 727,
+    "UserId": 40,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 728,
+    "UserId": 40,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 729,
+    "UserId": 40,
+    "EventClassId": 37
+  },
+  {
+    "UserEventId": 730,
+    "UserId": 40,
+    "EventClassId": 43
+  },
+  {
+    "UserEventId": 731,
+    "UserId": 40,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 732,
+    "UserId": 40,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 733,
+    "UserId": 41,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 734,
+    "UserId": 41,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 735,
+    "UserId": 41,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 736,
+    "UserId": 41,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 737,
+    "UserId": 41,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 738,
+    "UserId": 41,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 739,
+    "UserId": 42,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 740,
+    "UserId": 42,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 741,
+    "UserId": 42,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 742,
+    "UserId": 42,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 743,
+    "UserId": 42,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 744,
+    "UserId": 42,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 745,
+    "UserId": 42,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 746,
+    "UserId": 42,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 747,
+    "UserId": 42,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 748,
+    "UserId": 43,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 749,
+    "UserId": 43,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 750,
+    "UserId": 43,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 751,
+    "UserId": 43,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 752,
+    "UserId": 43,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 753,
+    "UserId": 43,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 754,
+    "UserId": 43,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 755,
+    "UserId": 43,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 756,
+    "UserId": 43,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 757,
+    "UserId": 43,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 758,
+    "UserId": 43,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 759,
+    "UserId": 43,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 760,
+    "UserId": 43,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 761,
+    "UserId": 43,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 762,
+    "UserId": 43,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 763,
+    "UserId": 43,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 764,
+    "UserId": 43,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 765,
+    "UserId": 43,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 766,
+    "UserId": 43,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 767,
+    "UserId": 43,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 768,
+    "UserId": 43,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 769,
+    "UserId": 43,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 770,
+    "UserId": 43,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 771,
+    "UserId": 43,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 772,
+    "UserId": 43,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 773,
+    "UserId": 43,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 774,
+    "UserId": 43,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 775,
+    "UserId": 43,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 776,
+    "UserId": 43,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 777,
+    "UserId": 43,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 778,
+    "UserId": 43,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 779,
+    "UserId": 43,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 780,
+    "UserId": 43,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 781,
+    "UserId": 43,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 782,
+    "UserId": 43,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 783,
+    "UserId": 44,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 784,
+    "UserId": 44,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 785,
+    "UserId": 44,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 786,
+    "UserId": 44,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 787,
+    "UserId": 44,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 788,
+    "UserId": 45,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 789,
+    "UserId": 45,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 790,
+    "UserId": 45,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 791,
+    "UserId": 45,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 792,
+    "UserId": 45,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 793,
+    "UserId": 45,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 794,
+    "UserId": 45,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 795,
+    "UserId": 45,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 796,
+    "UserId": 45,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 797,
+    "UserId": 45,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 798,
+    "UserId": 45,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 799,
+    "UserId": 45,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 800,
+    "UserId": 45,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 801,
+    "UserId": 46,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 802,
+    "UserId": 46,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 803,
+    "UserId": 47,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 804,
+    "UserId": 47,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 805,
+    "UserId": 47,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 806,
+    "UserId": 47,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 807,
+    "UserId": 47,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 808,
+    "UserId": 47,
+    "EventClassId": 69
+  },
+  {
+    "UserEventId": 809,
+    "UserId": 47,
+    "EventClassId": 72
+  },
+  {
+    "UserEventId": 810,
+    "UserId": 47,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 811,
+    "UserId": 47,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 812,
+    "UserId": 47,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 813,
+    "UserId": 47,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 814,
+    "UserId": 47,
+    "EventClassId": 89
+  },
+  {
+    "UserEventId": 815,
+    "UserId": 47,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 816,
+    "UserId": 47,
+    "EventClassId": 98
+  },
+  {
+    "UserEventId": 817,
+    "UserId": 48,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 818,
+    "UserId": 48,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 819,
+    "UserId": 48,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 820,
+    "UserId": 48,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 821,
+    "UserId": 48,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 822,
+    "UserId": 48,
+    "EventClassId": 37
+  },
+  {
+    "UserEventId": 823,
+    "UserId": 48,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 824,
+    "UserId": 48,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 825,
+    "UserId": 48,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 826,
+    "UserId": 48,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 827,
+    "UserId": 49,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 828,
+    "UserId": 49,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 829,
+    "UserId": 49,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 830,
+    "UserId": 49,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 831,
+    "UserId": 49,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 832,
+    "UserId": 49,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 833,
+    "UserId": 49,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 834,
+    "UserId": 49,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 835,
+    "UserId": 49,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 836,
+    "UserId": 49,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 837,
+    "UserId": 49,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 838,
+    "UserId": 49,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 839,
+    "UserId": 49,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 840,
+    "UserId": 49,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 841,
+    "UserId": 50,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 842,
+    "UserId": 50,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 843,
+    "UserId": 50,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 844,
+    "UserId": 50,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 845,
+    "UserId": 50,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 846,
+    "UserId": 50,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 847,
+    "UserId": 50,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 848,
+    "UserId": 50,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 849,
+    "UserId": 50,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 850,
+    "UserId": 50,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 851,
+    "UserId": 50,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 852,
+    "UserId": 50,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 853,
+    "UserId": 50,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 854,
+    "UserId": 50,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 855,
+    "UserId": 50,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 856,
+    "UserId": 50,
+    "EventClassId": 69
+  },
+  {
+    "UserEventId": 857,
+    "UserId": 50,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 858,
+    "UserId": 50,
+    "EventClassId": 72
+  },
+  {
+    "UserEventId": 859,
+    "UserId": 50,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 860,
+    "UserId": 50,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 861,
+    "UserId": 50,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 862,
+    "UserId": 50,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 863,
+    "UserId": 50,
+    "EventClassId": 81
+  },
+  {
+    "UserEventId": 864,
+    "UserId": 50,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 865,
+    "UserId": 50,
+    "EventClassId": 84
+  },
+  {
+    "UserEventId": 866,
+    "UserId": 50,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 867,
+    "UserId": 50,
+    "EventClassId": 88
+  },
+  {
+    "UserEventId": 868,
+    "UserId": 50,
+    "EventClassId": 89
+  },
+  {
+    "UserEventId": 869,
+    "UserId": 50,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 870,
+    "UserId": 50,
+    "EventClassId": 94
+  },
+  {
+    "UserEventId": 871,
+    "UserId": 50,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 872,
+    "UserId": 50,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 873,
+    "UserId": 50,
+    "EventClassId": 98
+  },
+  {
+    "UserEventId": 874,
+    "UserId": 51,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 875,
+    "UserId": 51,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 876,
+    "UserId": 51,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 877,
+    "UserId": 51,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 878,
+    "UserId": 51,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 879,
+    "UserId": 51,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 880,
+    "UserId": 51,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 881,
+    "UserId": 51,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 882,
+    "UserId": 51,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 883,
+    "UserId": 51,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 884,
+    "UserId": 51,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 885,
+    "UserId": 51,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 886,
+    "UserId": 51,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 887,
+    "UserId": 51,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 888,
+    "UserId": 51,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 889,
+    "UserId": 52,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 890,
+    "UserId": 52,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 891,
+    "UserId": 52,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 892,
+    "UserId": 53,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 893,
+    "UserId": 53,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 894,
+    "UserId": 53,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 895,
+    "UserId": 53,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 896,
+    "UserId": 53,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 897,
+    "UserId": 53,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 898,
+    "UserId": 53,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 899,
+    "UserId": 53,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 900,
+    "UserId": 53,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 901,
+    "UserId": 53,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 902,
+    "UserId": 53,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 903,
+    "UserId": 53,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 904,
+    "UserId": 53,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 905,
+    "UserId": 53,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 906,
+    "UserId": 53,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 907,
+    "UserId": 53,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 908,
+    "UserId": 53,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 909,
+    "UserId": 53,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 910,
+    "UserId": 53,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 911,
+    "UserId": 53,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 912,
+    "UserId": 53,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 913,
+    "UserId": 53,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 914,
+    "UserId": 53,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 915,
+    "UserId": 53,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 916,
+    "UserId": 53,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 917,
+    "UserId": 54,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 918,
+    "UserId": 54,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 919,
+    "UserId": 54,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 920,
+    "UserId": 54,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 921,
+    "UserId": 54,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 922,
+    "UserId": 54,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 923,
+    "UserId": 54,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 924,
+    "UserId": 54,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 925,
+    "UserId": 55,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 926,
+    "UserId": 55,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 927,
+    "UserId": 55,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 928,
+    "UserId": 55,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 929,
+    "UserId": 55,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 930,
+    "UserId": 55,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 931,
+    "UserId": 55,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 932,
+    "UserId": 55,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 933,
+    "UserId": 55,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 934,
+    "UserId": 55,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 935,
+    "UserId": 55,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 936,
+    "UserId": 55,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 937,
+    "UserId": 55,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 938,
+    "UserId": 55,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 939,
+    "UserId": 55,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 940,
+    "UserId": 55,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 941,
+    "UserId": 55,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 942,
+    "UserId": 55,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 943,
+    "UserId": 55,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 944,
+    "UserId": 55,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 945,
+    "UserId": 55,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 946,
+    "UserId": 55,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 947,
+    "UserId": 55,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 948,
+    "UserId": 55,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 949,
+    "UserId": 55,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 950,
+    "UserId": 55,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 951,
+    "UserId": 55,
+    "EventClassId": 37
+  },
+  {
+    "UserEventId": 952,
+    "UserId": 55,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 953,
+    "UserId": 55,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 954,
+    "UserId": 55,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 955,
+    "UserId": 55,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 956,
+    "UserId": 55,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 957,
+    "UserId": 55,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 958,
+    "UserId": 55,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 959,
+    "UserId": 55,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 960,
+    "UserId": 55,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 961,
+    "UserId": 55,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 962,
+    "UserId": 55,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 963,
+    "UserId": 55,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 964,
+    "UserId": 55,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 965,
+    "UserId": 55,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 966,
+    "UserId": 55,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 967,
+    "UserId": 55,
+    "EventClassId": 94
+  },
+  {
+    "UserEventId": 968,
+    "UserId": 55,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 969,
+    "UserId": 55,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 970,
+    "UserId": 56,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 971,
+    "UserId": 56,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 972,
+    "UserId": 56,
+    "EventClassId": 3
+  },
+  {
+    "UserEventId": 973,
+    "UserId": 56,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 974,
+    "UserId": 56,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 975,
+    "UserId": 56,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 976,
+    "UserId": 56,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 977,
+    "UserId": 56,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 978,
+    "UserId": 56,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 979,
+    "UserId": 56,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 980,
+    "UserId": 56,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 981,
+    "UserId": 56,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 982,
+    "UserId": 56,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 983,
+    "UserId": 56,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 984,
+    "UserId": 56,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 985,
+    "UserId": 56,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 986,
+    "UserId": 56,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 987,
+    "UserId": 56,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 988,
+    "UserId": 56,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 989,
+    "UserId": 56,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 990,
+    "UserId": 56,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 991,
+    "UserId": 56,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 992,
+    "UserId": 56,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 993,
+    "UserId": 56,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 994,
+    "UserId": 56,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 995,
+    "UserId": 57,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 996,
+    "UserId": 57,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 997,
+    "UserId": 57,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 998,
+    "UserId": 58,
+    "EventClassId": 1
+  },
+  {
+    "UserEventId": 999,
+    "UserId": 58,
+    "EventClassId": 2
+  },
+  {
+    "UserEventId": 1000,
+    "UserId": 58,
+    "EventClassId": 4
+  },
+  {
+    "UserEventId": 1001,
+    "UserId": 58,
+    "EventClassId": 5
+  },
+  {
+    "UserEventId": 1002,
+    "UserId": 58,
+    "EventClassId": 6
+  },
+  {
+    "UserEventId": 1003,
+    "UserId": 58,
+    "EventClassId": 7
+  },
+  {
+    "UserEventId": 1004,
+    "UserId": 58,
+    "EventClassId": 8
+  },
+  {
+    "UserEventId": 1005,
+    "UserId": 58,
+    "EventClassId": 9
+  },
+  {
+    "UserEventId": 1006,
+    "UserId": 58,
+    "EventClassId": 10
+  },
+  {
+    "UserEventId": 1007,
+    "UserId": 58,
+    "EventClassId": 11
+  },
+  {
+    "UserEventId": 1008,
+    "UserId": 58,
+    "EventClassId": 12
+  },
+  {
+    "UserEventId": 1009,
+    "UserId": 58,
+    "EventClassId": 13
+  },
+  {
+    "UserEventId": 1010,
+    "UserId": 58,
+    "EventClassId": 14
+  },
+  {
+    "UserEventId": 1011,
+    "UserId": 58,
+    "EventClassId": 18
+  },
+  {
+    "UserEventId": 1012,
+    "UserId": 58,
+    "EventClassId": 19
+  },
+  {
+    "UserEventId": 1013,
+    "UserId": 58,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 1014,
+    "UserId": 58,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 1015,
+    "UserId": 58,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 1016,
+    "UserId": 58,
+    "EventClassId": 26
+  },
+  {
+    "UserEventId": 1017,
+    "UserId": 58,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1018,
+    "UserId": 58,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 1019,
+    "UserId": 58,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 1020,
+    "UserId": 58,
+    "EventClassId": 31
+  },
+  {
+    "UserEventId": 1021,
+    "UserId": 58,
+    "EventClassId": 32
+  },
+  {
+    "UserEventId": 1022,
+    "UserId": 58,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 1023,
+    "UserId": 58,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 1024,
+    "UserId": 58,
+    "EventClassId": 35
+  },
+  {
+    "UserEventId": 1025,
+    "UserId": 58,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 1026,
+    "UserId": 58,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 1027,
+    "UserId": 58,
+    "EventClassId": 42
+  },
+  {
+    "UserEventId": 1028,
+    "UserId": 58,
+    "EventClassId": 44
+  },
+  {
+    "UserEventId": 1029,
+    "UserId": 58,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 1030,
+    "UserId": 59,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1031,
+    "UserId": 59,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1032,
+    "UserId": 59,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1033,
+    "UserId": 59,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1034,
+    "UserId": 59,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1035,
+    "UserId": 60,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1036,
+    "UserId": 60,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1037,
+    "UserId": 60,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1038,
+    "UserId": 61,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1039,
+    "UserId": 62,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1040,
+    "UserId": 62,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1041,
+    "UserId": 62,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1042,
+    "UserId": 62,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1043,
+    "UserId": 62,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1044,
+    "UserId": 63,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1045,
+    "UserId": 63,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1046,
+    "UserId": 63,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1047,
+    "UserId": 63,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1048,
+    "UserId": 64,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1049,
+    "UserId": 64,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1050,
+    "UserId": 65,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1051,
+    "UserId": 66,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1052,
+    "UserId": 67,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1053,
+    "UserId": 68,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1054,
+    "UserId": 69,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1055,
+    "UserId": 69,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1056,
+    "UserId": 69,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1057,
+    "UserId": 69,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1058,
+    "UserId": 70,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1059,
+    "UserId": 70,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1060,
+    "UserId": 70,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1061,
+    "UserId": 70,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1062,
+    "UserId": 70,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1063,
+    "UserId": 70,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1064,
+    "UserId": 70,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 1065,
+    "UserId": 70,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1066,
+    "UserId": 70,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 1067,
+    "UserId": 70,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 1068,
+    "UserId": 70,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 1069,
+    "UserId": 70,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1070,
+    "UserId": 70,
+    "EventClassId": 89
+  },
+  {
+    "UserEventId": 1071,
+    "UserId": 70,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 1072,
+    "UserId": 70,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1073,
+    "UserId": 71,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1074,
+    "UserId": 71,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1075,
+    "UserId": 71,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1076,
+    "UserId": 71,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1077,
+    "UserId": 72,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1078,
+    "UserId": 72,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1079,
+    "UserId": 72,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1080,
+    "UserId": 72,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1081,
+    "UserId": 72,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1082,
+    "UserId": 72,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1083,
+    "UserId": 73,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1084,
+    "UserId": 74,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1085,
+    "UserId": 75,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1086,
+    "UserId": 75,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1087,
+    "UserId": 75,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1088,
+    "UserId": 75,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 1089,
+    "UserId": 75,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 1090,
+    "UserId": 75,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 1091,
+    "UserId": 75,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1092,
+    "UserId": 76,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1093,
+    "UserId": 76,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1094,
+    "UserId": 76,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1095,
+    "UserId": 76,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1096,
+    "UserId": 76,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1097,
+    "UserId": 76,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1098,
+    "UserId": 77,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1099,
+    "UserId": 78,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1100,
+    "UserId": 79,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1101,
+    "UserId": 79,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1102,
+    "UserId": 80,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1103,
+    "UserId": 80,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1104,
+    "UserId": 80,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1105,
+    "UserId": 81,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1106,
+    "UserId": 81,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1107,
+    "UserId": 82,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1108,
+    "UserId": 82,
+    "EventClassId": 88
+  },
+  {
+    "UserEventId": 1109,
+    "UserId": 82,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 1110,
+    "UserId": 82,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1111,
+    "UserId": 83,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1112,
+    "UserId": 83,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1113,
+    "UserId": 83,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1114,
+    "UserId": 83,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1115,
+    "UserId": 83,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1116,
+    "UserId": 84,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1117,
+    "UserId": 84,
+    "EventClassId": 87
+  },
+  {
+    "UserEventId": 1118,
+    "UserId": 85,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1119,
+    "UserId": 85,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1120,
+    "UserId": 85,
+    "EventClassId": 88
+  },
+  {
+    "UserEventId": 1121,
+    "UserId": 85,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 1122,
+    "UserId": 85,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1123,
+    "UserId": 86,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1124,
+    "UserId": 86,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1125,
+    "UserId": 86,
+    "EventClassId": 81
+  },
+  {
+    "UserEventId": 1126,
+    "UserId": 87,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1127,
+    "UserId": 88,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1128,
+    "UserId": 88,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1129,
+    "UserId": 89,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1130,
+    "UserId": 89,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1131,
+    "UserId": 89,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1132,
+    "UserId": 89,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1133,
+    "UserId": 89,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1134,
+    "UserId": 90,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1135,
+    "UserId": 90,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1136,
+    "UserId": 91,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1137,
+    "UserId": 92,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1138,
+    "UserId": 93,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1139,
+    "UserId": 93,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1140,
+    "UserId": 94,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1141,
+    "UserId": 94,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1142,
+    "UserId": 94,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1143,
+    "UserId": 94,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1144,
+    "UserId": 94,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1145,
+    "UserId": 94,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1146,
+    "UserId": 95,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1147,
+    "UserId": 96,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1148,
+    "UserId": 97,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1149,
+    "UserId": 97,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1150,
+    "UserId": 97,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1151,
+    "UserId": 97,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1152,
+    "UserId": 97,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1153,
+    "UserId": 97,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1154,
+    "UserId": 97,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1155,
+    "UserId": 97,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1156,
+    "UserId": 98,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1157,
+    "UserId": 99,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1158,
+    "UserId": 100,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1159,
+    "UserId": 100,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1160,
+    "UserId": 100,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1161,
+    "UserId": 100,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1162,
+    "UserId": 100,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1163,
+    "UserId": 100,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1164,
+    "UserId": 101,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1165,
+    "UserId": 102,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1166,
+    "UserId": 102,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1167,
+    "UserId": 102,
+    "EventClassId": 81
+  },
+  {
+    "UserEventId": 1168,
+    "UserId": 103,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1169,
+    "UserId": 103,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1170,
+    "UserId": 103,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1171,
+    "UserId": 103,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1172,
+    "UserId": 103,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1173,
+    "UserId": 104,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 1174,
+    "UserId": 105,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1175,
+    "UserId": 105,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1176,
+    "UserId": 105,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1177,
+    "UserId": 106,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1178,
+    "UserId": 106,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1179,
+    "UserId": 106,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1180,
+    "UserId": 107,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 1181,
+    "UserId": 108,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1182,
+    "UserId": 109,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1183,
+    "UserId": 109,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1184,
+    "UserId": 109,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1185,
+    "UserId": 109,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1186,
+    "UserId": 109,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1187,
+    "UserId": 109,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1188,
+    "UserId": 110,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1189,
+    "UserId": 110,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1190,
+    "UserId": 110,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1191,
+    "UserId": 111,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1192,
+    "UserId": 111,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1193,
+    "UserId": 112,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 1194,
+    "UserId": 112,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1195,
+    "UserId": 113,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1196,
+    "UserId": 113,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1197,
+    "UserId": 113,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1198,
+    "UserId": 113,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1199,
+    "UserId": 114,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 1200,
+    "UserId": 115,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1201,
+    "UserId": 115,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1202,
+    "UserId": 116,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1203,
+    "UserId": 117,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1204,
+    "UserId": 118,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1205,
+    "UserId": 118,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1206,
+    "UserId": 118,
+    "EventClassId": 87
+  },
+  {
+    "UserEventId": 1207,
+    "UserId": 119,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1208,
+    "UserId": 120,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 1209,
+    "UserId": 121,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1210,
+    "UserId": 122,
+    "EventClassId": 94
+  },
+  {
+    "UserEventId": 1211,
+    "UserId": 122,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1212,
+    "UserId": 123,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1213,
+    "UserId": 124,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1214,
+    "UserId": 124,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1215,
+    "UserId": 124,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1216,
+    "UserId": 124,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1217,
+    "UserId": 124,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1218,
+    "UserId": 124,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1219,
+    "UserId": 125,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1220,
+    "UserId": 125,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1221,
+    "UserId": 125,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1222,
+    "UserId": 125,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1223,
+    "UserId": 125,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1224,
+    "UserId": 126,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 1225,
+    "UserId": 126,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 1226,
+    "UserId": 126,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1227,
+    "UserId": 126,
+    "EventClassId": 40
+  },
+  {
+    "UserEventId": 1228,
+    "UserId": 127,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1229,
+    "UserId": 128,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1230,
+    "UserId": 128,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1231,
+    "UserId": 128,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1232,
+    "UserId": 129,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1233,
+    "UserId": 130,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1234,
+    "UserId": 130,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1235,
+    "UserId": 131,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1236,
+    "UserId": 131,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1237,
+    "UserId": 131,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1238,
+    "UserId": 131,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1239,
+    "UserId": 132,
+    "EventClassId": 87
+  },
+  {
+    "UserEventId": 1240,
+    "UserId": 133,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1241,
+    "UserId": 133,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1242,
+    "UserId": 133,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1243,
+    "UserId": 134,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1244,
+    "UserId": 135,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1245,
+    "UserId": 136,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1246,
+    "UserId": 136,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1247,
+    "UserId": 136,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1248,
+    "UserId": 137,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1249,
+    "UserId": 138,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1250,
+    "UserId": 138,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1251,
+    "UserId": 138,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1252,
+    "UserId": 138,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1253,
+    "UserId": 138,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 1254,
+    "UserId": 138,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1255,
+    "UserId": 138,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 1256,
+    "UserId": 138,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 1257,
+    "UserId": 138,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1258,
+    "UserId": 138,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1259,
+    "UserId": 139,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1260,
+    "UserId": 140,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1261,
+    "UserId": 140,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 1262,
+    "UserId": 140,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 1263,
+    "UserId": 140,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 1264,
+    "UserId": 140,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1265,
+    "UserId": 141,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1266,
+    "UserId": 142,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1267,
+    "UserId": 142,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1268,
+    "UserId": 143,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1269,
+    "UserId": 144,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1270,
+    "UserId": 145,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1271,
+    "UserId": 145,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1272,
+    "UserId": 145,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1273,
+    "UserId": 146,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1274,
+    "UserId": 147,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1275,
+    "UserId": 147,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1276,
+    "UserId": 147,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1277,
+    "UserId": 148,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1278,
+    "UserId": 148,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1279,
+    "UserId": 148,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1280,
+    "UserId": 149,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1281,
+    "UserId": 149,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1282,
+    "UserId": 150,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1283,
+    "UserId": 151,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1284,
+    "UserId": 151,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1285,
+    "UserId": 151,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1286,
+    "UserId": 151,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1287,
+    "UserId": 151,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1288,
+    "UserId": 152,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1289,
+    "UserId": 152,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1290,
+    "UserId": 153,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1291,
+    "UserId": 153,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1292,
+    "UserId": 154,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1293,
+    "UserId": 155,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1294,
+    "UserId": 155,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1295,
+    "UserId": 156,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1296,
+    "UserId": 157,
+    "EventClassId": 16
+  },
+  {
+    "UserEventId": 1297,
+    "UserId": 157,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 1298,
+    "UserId": 157,
+    "EventClassId": 38
+  },
+  {
+    "UserEventId": 1299,
+    "UserId": 158,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1300,
+    "UserId": 158,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1301,
+    "UserId": 159,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1302,
+    "UserId": 159,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1303,
+    "UserId": 159,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1304,
+    "UserId": 159,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1305,
+    "UserId": 159,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1306,
+    "UserId": 159,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1307,
+    "UserId": 160,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1308,
+    "UserId": 160,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1309,
+    "UserId": 161,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1310,
+    "UserId": 162,
+    "EventClassId": 37
+  },
+  {
+    "UserEventId": 1311,
+    "UserId": 162,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1312,
+    "UserId": 162,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1313,
+    "UserId": 162,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1314,
+    "UserId": 162,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1315,
+    "UserId": 162,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1316,
+    "UserId": 162,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1317,
+    "UserId": 162,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1318,
+    "UserId": 163,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1319,
+    "UserId": 163,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1320,
+    "UserId": 163,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1321,
+    "UserId": 163,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1322,
+    "UserId": 164,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1323,
+    "UserId": 165,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1324,
+    "UserId": 165,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1325,
+    "UserId": 166,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1326,
+    "UserId": 166,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1327,
+    "UserId": 166,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1328,
+    "UserId": 167,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1329,
+    "UserId": 168,
+    "EventClassId": 30
+  },
+  {
+    "UserEventId": 1330,
+    "UserId": 169,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1331,
+    "UserId": 169,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1332,
+    "UserId": 169,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1333,
+    "UserId": 170,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1334,
+    "UserId": 170,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1335,
+    "UserId": 170,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1336,
+    "UserId": 170,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1337,
+    "UserId": 171,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1338,
+    "UserId": 172,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1339,
+    "UserId": 172,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1340,
+    "UserId": 172,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1341,
+    "UserId": 172,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1342,
+    "UserId": 172,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1343,
+    "UserId": 173,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1344,
+    "UserId": 173,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1345,
+    "UserId": 173,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1346,
+    "UserId": 174,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1347,
+    "UserId": 174,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1348,
+    "UserId": 174,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1349,
+    "UserId": 174,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1350,
+    "UserId": 174,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1351,
+    "UserId": 174,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1352,
+    "UserId": 175,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1353,
+    "UserId": 176,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1354,
+    "UserId": 177,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1355,
+    "UserId": 177,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1356,
+    "UserId": 177,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1357,
+    "UserId": 177,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1358,
+    "UserId": 178,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 1359,
+    "UserId": 179,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1360,
+    "UserId": 180,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 1361,
+    "UserId": 180,
+    "EventClassId": 24
+  },
+  {
+    "UserEventId": 1362,
+    "UserId": 180,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1363,
+    "UserId": 180,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 1364,
+    "UserId": 180,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 1365,
+    "UserId": 180,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1366,
+    "UserId": 180,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1367,
+    "UserId": 180,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1368,
+    "UserId": 180,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1369,
+    "UserId": 180,
+    "EventClassId": 85
+  },
+  {
+    "UserEventId": 1370,
+    "UserId": 181,
+    "EventClassId": 45
+  },
+  {
+    "UserEventId": 1371,
+    "UserId": 182,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1372,
+    "UserId": 182,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1373,
+    "UserId": 182,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1374,
+    "UserId": 182,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1375,
+    "UserId": 182,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1376,
+    "UserId": 183,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1377,
+    "UserId": 184,
+    "EventClassId": 69
+  },
+  {
+    "UserEventId": 1378,
+    "UserId": 184,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1379,
+    "UserId": 184,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1380,
+    "UserId": 184,
+    "EventClassId": 88
+  },
+  {
+    "UserEventId": 1381,
+    "UserId": 184,
+    "EventClassId": 98
+  },
+  {
+    "UserEventId": 1382,
+    "UserId": 185,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 1383,
+    "UserId": 186,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1384,
+    "UserId": 186,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1385,
+    "UserId": 186,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1386,
+    "UserId": 186,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1387,
+    "UserId": 186,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1388,
+    "UserId": 187,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1389,
+    "UserId": 187,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1390,
+    "UserId": 188,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1391,
+    "UserId": 189,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1392,
+    "UserId": 189,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1393,
+    "UserId": 189,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1394,
+    "UserId": 190,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1395,
+    "UserId": 191,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1396,
+    "UserId": 191,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1397,
+    "UserId": 191,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1398,
+    "UserId": 192,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1399,
+    "UserId": 192,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1400,
+    "UserId": 192,
+    "EventClassId": 98
+  },
+  {
+    "UserEventId": 1401,
+    "UserId": 193,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1402,
+    "UserId": 193,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1403,
+    "UserId": 193,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1404,
+    "UserId": 193,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1405,
+    "UserId": 193,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1406,
+    "UserId": 193,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1407,
+    "UserId": 193,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1408,
+    "UserId": 194,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1409,
+    "UserId": 194,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1410,
+    "UserId": 194,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1411,
+    "UserId": 194,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1412,
+    "UserId": 195,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1413,
+    "UserId": 195,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1414,
+    "UserId": 195,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1415,
+    "UserId": 196,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1416,
+    "UserId": 197,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1417,
+    "UserId": 198,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1418,
+    "UserId": 198,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1419,
+    "UserId": 198,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1420,
+    "UserId": 198,
+    "EventClassId": 94
+  },
+  {
+    "UserEventId": 1421,
+    "UserId": 198,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1422,
+    "UserId": 198,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1423,
+    "UserId": 199,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1424,
+    "UserId": 199,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1425,
+    "UserId": 200,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1426,
+    "UserId": 200,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1427,
+    "UserId": 201,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1428,
+    "UserId": 201,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1429,
+    "UserId": 201,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1430,
+    "UserId": 201,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1431,
+    "UserId": 201,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1432,
+    "UserId": 201,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1433,
+    "UserId": 202,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1434,
+    "UserId": 202,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1435,
+    "UserId": 203,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1436,
+    "UserId": 203,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1437,
+    "UserId": 204,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1438,
+    "UserId": 204,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1439,
+    "UserId": 205,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1440,
+    "UserId": 205,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1441,
+    "UserId": 206,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1442,
+    "UserId": 207,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1443,
+    "UserId": 207,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 1444,
+    "UserId": 207,
+    "EventClassId": 82
+  },
+  {
+    "UserEventId": 1445,
+    "UserId": 208,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 1446,
+    "UserId": 208,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1447,
+    "UserId": 208,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1448,
+    "UserId": 209,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1449,
+    "UserId": 209,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1450,
+    "UserId": 209,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1451,
+    "UserId": 210,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 1452,
+    "UserId": 210,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1453,
+    "UserId": 210,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1454,
+    "UserId": 210,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1455,
+    "UserId": 210,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1456,
+    "UserId": 210,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1457,
+    "UserId": 210,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1458,
+    "UserId": 211,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1459,
+    "UserId": 211,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1460,
+    "UserId": 212,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1461,
+    "UserId": 212,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1462,
+    "UserId": 212,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1463,
+    "UserId": 213,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1464,
+    "UserId": 213,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1465,
+    "UserId": 213,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1466,
+    "UserId": 213,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1467,
+    "UserId": 214,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1468,
+    "UserId": 215,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1469,
+    "UserId": 215,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1470,
+    "UserId": 215,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1471,
+    "UserId": 215,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1472,
+    "UserId": 215,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1473,
+    "UserId": 215,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1474,
+    "UserId": 215,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 1475,
+    "UserId": 215,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1476,
+    "UserId": 216,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1477,
+    "UserId": 216,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1478,
+    "UserId": 217,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1479,
+    "UserId": 217,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1480,
+    "UserId": 218,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1481,
+    "UserId": 218,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1482,
+    "UserId": 218,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1483,
+    "UserId": 219,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1484,
+    "UserId": 219,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1485,
+    "UserId": 219,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1486,
+    "UserId": 220,
+    "EventClassId": 81
+  },
+  {
+    "UserEventId": 1487,
+    "UserId": 221,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1488,
+    "UserId": 222,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1489,
+    "UserId": 222,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1490,
+    "UserId": 223,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1491,
+    "UserId": 223,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1492,
+    "UserId": 223,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1493,
+    "UserId": 223,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1494,
+    "UserId": 223,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1495,
+    "UserId": 223,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1496,
+    "UserId": 224,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1497,
+    "UserId": 225,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1498,
+    "UserId": 225,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1499,
+    "UserId": 225,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1500,
+    "UserId": 225,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1501,
+    "UserId": 225,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1502,
+    "UserId": 226,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1503,
+    "UserId": 226,
+    "EventClassId": 87
+  },
+  {
+    "UserEventId": 1504,
+    "UserId": 227,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1505,
+    "UserId": 227,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1506,
+    "UserId": 227,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1507,
+    "UserId": 227,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1508,
+    "UserId": 227,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1509,
+    "UserId": 228,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1510,
+    "UserId": 229,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1511,
+    "UserId": 229,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1512,
+    "UserId": 230,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1513,
+    "UserId": 231,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1514,
+    "UserId": 231,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1515,
+    "UserId": 231,
+    "EventClassId": 89
+  },
+  {
+    "UserEventId": 1516,
+    "UserId": 231,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1517,
+    "UserId": 231,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1518,
+    "UserId": 231,
+    "EventClassId": 94
+  },
+  {
+    "UserEventId": 1519,
+    "UserId": 231,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1520,
+    "UserId": 231,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1521,
+    "UserId": 232,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1522,
+    "UserId": 232,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1523,
+    "UserId": 233,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1524,
+    "UserId": 233,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1525,
+    "UserId": 233,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1526,
+    "UserId": 234,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1527,
+    "UserId": 235,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1528,
+    "UserId": 235,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1529,
+    "UserId": 235,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1530,
+    "UserId": 235,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1531,
+    "UserId": 235,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1532,
+    "UserId": 235,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1533,
+    "UserId": 236,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1534,
+    "UserId": 237,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1535,
+    "UserId": 237,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1536,
+    "UserId": 238,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1537,
+    "UserId": 239,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1538,
+    "UserId": 239,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1539,
+    "UserId": 240,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1540,
+    "UserId": 241,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1541,
+    "UserId": 241,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 1542,
+    "UserId": 242,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1543,
+    "UserId": 242,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1544,
+    "UserId": 242,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1545,
+    "UserId": 242,
+    "EventClassId": 55
+  },
+  {
+    "UserEventId": 1546,
+    "UserId": 242,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1547,
+    "UserId": 243,
+    "EventClassId": 20
+  },
+  {
+    "UserEventId": 1548,
+    "UserId": 243,
+    "EventClassId": 22
+  },
+  {
+    "UserEventId": 1549,
+    "UserId": 243,
+    "EventClassId": 33
+  },
+  {
+    "UserEventId": 1550,
+    "UserId": 243,
+    "EventClassId": 34
+  },
+  {
+    "UserEventId": 1551,
+    "UserId": 243,
+    "EventClassId": 88
+  },
+  {
+    "UserEventId": 1552,
+    "UserId": 243,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 1553,
+    "UserId": 244,
+    "EventClassId": 94
+  },
+  {
+    "UserEventId": 1554,
+    "UserId": 245,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1555,
+    "UserId": 245,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 1556,
+    "UserId": 245,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1557,
+    "UserId": 246,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1558,
+    "UserId": 246,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1559,
+    "UserId": 247,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 1560,
+    "UserId": 248,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1561,
+    "UserId": 248,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1562,
+    "UserId": 248,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1563,
+    "UserId": 248,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 1564,
+    "UserId": 248,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1565,
+    "UserId": 248,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1566,
+    "UserId": 248,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 1567,
+    "UserId": 248,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1568,
+    "UserId": 248,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1569,
+    "UserId": 248,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1570,
+    "UserId": 249,
+    "EventClassId": 95
+  },
+  {
+    "UserEventId": 1571,
+    "UserId": 250,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1572,
+    "UserId": 250,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1573,
+    "UserId": 250,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1574,
+    "UserId": 250,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1575,
+    "UserId": 251,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1576,
+    "UserId": 251,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1577,
+    "UserId": 251,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1578,
+    "UserId": 252,
+    "EventClassId": 91
+  },
+  {
+    "UserEventId": 1579,
+    "UserId": 253,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1580,
+    "UserId": 254,
+    "EventClassId": 86
+  },
+  {
+    "UserEventId": 1581,
+    "UserId": 254,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1582,
+    "UserId": 255,
+    "EventClassId": 49
+  },
+  {
+    "UserEventId": 1583,
+    "UserId": 255,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1584,
+    "UserId": 256,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1585,
+    "UserId": 257,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1586,
+    "UserId": 257,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1587,
+    "UserId": 257,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1588,
+    "UserId": 258,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1589,
+    "UserId": 258,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1590,
+    "UserId": 258,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1591,
+    "UserId": 258,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1592,
+    "UserId": 258,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1593,
+    "UserId": 258,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1594,
+    "UserId": 258,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1595,
+    "UserId": 259,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1596,
+    "UserId": 260,
+    "EventClassId": 29
+  },
+  {
+    "UserEventId": 1597,
+    "UserId": 260,
+    "EventClassId": 36
+  },
+  {
+    "UserEventId": 1598,
+    "UserId": 260,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1599,
+    "UserId": 260,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1600,
+    "UserId": 260,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1601,
+    "UserId": 260,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1602,
+    "UserId": 261,
+    "EventClassId": 21
+  },
+  {
+    "UserEventId": 1603,
+    "UserId": 261,
+    "EventClassId": 39
+  },
+  {
+    "UserEventId": 1604,
+    "UserId": 261,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1605,
+    "UserId": 262,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1606,
+    "UserId": 263,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 1607,
+    "UserId": 263,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 1608,
+    "UserId": 263,
+    "EventClassId": 92
+  },
+  {
+    "UserEventId": 1609,
+    "UserId": 263,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1610,
+    "UserId": 264,
+    "EventClassId": 75
+  },
+  {
+    "UserEventId": 1611,
+    "UserId": 264,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1612,
+    "UserId": 265,
+    "EventClassId": 47
+  },
+  {
+    "UserEventId": 1613,
+    "UserId": 265,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1614,
+    "UserId": 265,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1615,
+    "UserId": 266,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1616,
+    "UserId": 266,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1617,
+    "UserId": 266,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1618,
+    "UserId": 266,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1619,
+    "UserId": 266,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1620,
+    "UserId": 266,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1621,
+    "UserId": 267,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1622,
+    "UserId": 268,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1623,
+    "UserId": 269,
+    "EventClassId": 51
+  },
+  {
+    "UserEventId": 1624,
+    "UserId": 270,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1625,
+    "UserId": 271,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1626,
+    "UserId": 272,
+    "EventClassId": 66
+  },
+  {
+    "UserEventId": 1627,
+    "UserId": 272,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 1628,
+    "UserId": 272,
+    "EventClassId": 71
+  },
+  {
+    "UserEventId": 1629,
+    "UserId": 272,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1630,
+    "UserId": 272,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1631,
+    "UserId": 272,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1632,
+    "UserId": 272,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1633,
+    "UserId": 272,
+    "EventClassId": 93
+  },
+  {
+    "UserEventId": 1634,
+    "UserId": 272,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1635,
+    "UserId": 273,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1636,
+    "UserId": 274,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1637,
+    "UserId": 274,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1638,
+    "UserId": 274,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1639,
+    "UserId": 274,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1640,
+    "UserId": 274,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1641,
+    "UserId": 274,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1642,
+    "UserId": 274,
+    "EventClassId": 87
+  },
+  {
+    "UserEventId": 1643,
+    "UserId": 274,
+    "EventClassId": 90
+  },
+  {
+    "UserEventId": 1644,
+    "UserId": 275,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1645,
+    "UserId": 275,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1646,
+    "UserId": 275,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1647,
+    "UserId": 275,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1648,
+    "UserId": 275,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1649,
+    "UserId": 276,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1650,
+    "UserId": 277,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1651,
+    "UserId": 277,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1652,
+    "UserId": 277,
+    "EventClassId": 67
+  },
+  {
+    "UserEventId": 1653,
+    "UserId": 278,
+    "EventClassId": 28
+  },
+  {
+    "UserEventId": 1654,
+    "UserId": 279,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1655,
+    "UserId": 280,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1656,
+    "UserId": 280,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1657,
+    "UserId": 280,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1658,
+    "UserId": 280,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1659,
+    "UserId": 280,
+    "EventClassId": 70
+  },
+  {
+    "UserEventId": 1660,
+    "UserId": 280,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1661,
+    "UserId": 280,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 1662,
+    "UserId": 280,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1663,
+    "UserId": 280,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1664,
+    "UserId": 280,
+    "EventClassId": 97
+  },
+  {
+    "UserEventId": 1665,
+    "UserId": 281,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1666,
+    "UserId": 282,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1667,
+    "UserId": 282,
+    "EventClassId": 77
+  },
+  {
+    "UserEventId": 1668,
+    "UserId": 282,
+    "EventClassId": 83
+  },
+  {
+    "UserEventId": 1669,
+    "UserId": 283,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1670,
+    "UserId": 284,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1671,
+    "UserId": 284,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1672,
+    "UserId": 284,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1673,
+    "UserId": 285,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1674,
+    "UserId": 285,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1675,
+    "UserId": 285,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1676,
+    "UserId": 285,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1677,
+    "UserId": 285,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1678,
+    "UserId": 286,
+    "EventClassId": 59
+  },
+  {
+    "UserEventId": 1679,
+    "UserId": 287,
+    "EventClassId": 74
+  },
+  {
+    "UserEventId": 1680,
+    "UserId": 287,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1681,
+    "UserId": 288,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1682,
+    "UserId": 289,
+    "EventClassId": 78
+  },
+  {
+    "UserEventId": 1683,
+    "UserId": 290,
+    "EventClassId": 54
+  },
+  {
+    "UserEventId": 1684,
+    "UserId": 290,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1685,
+    "UserId": 290,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1686,
+    "UserId": 291,
+    "EventClassId": 53
+  },
+  {
+    "UserEventId": 1687,
+    "UserId": 291,
+    "EventClassId": 57
+  },
+  {
+    "UserEventId": 1688,
+    "UserId": 292,
+    "EventClassId": 46
+  },
+  {
+    "UserEventId": 1689,
+    "UserId": 292,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1690,
+    "UserId": 292,
+    "EventClassId": 50
+  },
+  {
+    "UserEventId": 1691,
+    "UserId": 292,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1692,
+    "UserId": 292,
+    "EventClassId": 56
+  },
+  {
+    "UserEventId": 1693,
+    "UserId": 292,
+    "EventClassId": 58
+  },
+  {
+    "UserEventId": 1694,
+    "UserId": 293,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1695,
+    "UserId": 293,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1696,
+    "UserId": 293,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1697,
+    "UserId": 293,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1698,
+    "UserId": 294,
+    "EventClassId": 61
+  },
+  {
+    "UserEventId": 1699,
+    "UserId": 294,
+    "EventClassId": 62
+  },
+  {
+    "UserEventId": 1700,
+    "UserId": 294,
+    "EventClassId": 63
+  },
+  {
+    "UserEventId": 1701,
+    "UserId": 294,
+    "EventClassId": 64
+  },
+  {
+    "UserEventId": 1702,
+    "UserId": 294,
+    "EventClassId": 65
+  },
+  {
+    "UserEventId": 1703,
+    "UserId": 295,
+    "EventClassId": 60
+  },
+  {
+    "UserEventId": 1704,
+    "UserId": 295,
+    "EventClassId": 80
+  },
+  {
+    "UserEventId": 1705,
+    "UserId": 295,
+    "EventClassId": 96
+  },
+  {
+    "UserEventId": 1706,
+    "UserId": 296,
+    "EventClassId": 73
+  },
+  {
+    "UserEventId": 1707,
+    "UserId": 296,
+    "EventClassId": 76
+  },
+  {
+    "UserEventId": 1708,
+    "UserId": 296,
+    "EventClassId": 79
+  },
+  {
+    "UserEventId": 1709,
+    "UserId": 297,
+    "EventClassId": 48
+  },
+  {
+    "UserEventId": 1710,
+    "UserId": 297,
+    "EventClassId": 52
+  },
+  {
+    "UserEventId": 1711,
+    "UserId": 298,
+    "EventClassId": 68
+  },
+  {
+    "UserEventId": 1712,
+    "UserId": 298,
+    "EventClassId": 77
   }
 ]
