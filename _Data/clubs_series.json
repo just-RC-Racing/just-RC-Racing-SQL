@@ -4,89 +4,79 @@
     "Series_Name": "BBC Winter League 2023-24",
     "Series_Start_Date": "2023-10-01",
     "Series_End_Date": "2024-02-28",
-    "Rounds": 11,
-    "Rounds_To_Count": 8,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 0
   },
   {
     "SeriesId": 2,
     "Series_Name": "BBC Super League 2023",
     "Series_Start_Date": "2023-03-01",
     "Series_End_Date": "2023-12-31",
-    "Rounds": 6,
-    "Rounds_To_Count": 4,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 0
   },
   {
     "SeriesId": 3,
     "Series_Name": "BBC Summer League 2023",
     "Series_Start_Date": "2023-06-01",
     "Series_End_Date": "2023-10-30",
-    "Rounds": 11,
-    "Rounds_To_Count": 8,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 0
   },
   {
     "SeriesId": 4,
     "Series_Name": "BBC Club Night",
     "Series_Start_Date": "2000-01-01",
     "Series_End_Date": "3000-01-01",
-    "Rounds": 0,
-    "Rounds_To_Count": 0,
-    "Tie_Break_Rule": "Not a Championship"
+    "Championship": 0,
+    "National_Series": 0
   },
   {
     "SeriesId": 5,
     "Series_Name": "TRRAC Club Night",
     "Series_Start_Date": "2000-01-01",
     "Series_End_Date": "3000-01-01",
-    "Rounds": 0,
-    "Rounds_To_Count": 0,
-    "Tie_Break_Rule": "Not a Championship"
+    "Championship": 0,
+    "National_Series": 0
   },
   {
     "SeriesId": 6,
     "Series_Name": "TRRAC Series 2024",
     "Series_Start_Date": "2023-10-01",
     "Series_End_Date": "2024-03-31",
-    "Rounds": 5,
-    "Rounds_To_Count": 3,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 0
   },
   {
     "SeriesId": 7,
     "Series_Name": "TRRAC Summer Series 2023",
     "Series_Start_Date": "2023-05-01",
     "Series_End_Date": "2023-09-30",
-    "Rounds": 4,
-    "Rounds_To_Count": 3,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 0
   },
   {
     "SeriesId": 8,
     "Series_Name": "Schumacher GT12 GP 2023",
     "Series_Start_Date": "2023-12-30",
     "Series_End_Date": "2023-12-30",
-    "Rounds": 0,
-    "Rounds_To_Count": 0,
-    "Tie_Break_Rule": "Not a Championship"
+    "Championship": 0,
+    "National_Series": 0
   },
   {
     "SeriesId": 9,
     "Series_Name": "BRCA GT12 National Series 2023",
     "Series_Start_Date": "2023-09-01",
     "Series_End_Date": "2024-01-30",
-    "Rounds": 5,
-    "Rounds_To_Count": 3,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 1
   },
   {
     "SeriesId": 10,
     "Series_Name": "BRCA 8th Circuit 2023",
     "Series_Start_Date": "2023-04-01",
     "Series_End_Date": "2023-08-30",
-    "Rounds": 6,
-    "Rounds_To_Count": 4,
-    "Tie_Break_Rule": "Countback"
+    "Championship": 1,
+    "National_Series": 1
   }
 ]
