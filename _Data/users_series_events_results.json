@@ -75,7 +75,7 @@
     "Result_Time": 95.02,
     "Best10": 0,
     "Best": 8.36,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 7,
@@ -816,7 +816,7 @@
     "Result_Time": 364.44,
     "Best10": 8.53,
     "Best": 8.39,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 64,
@@ -1024,7 +1024,7 @@
     "Result_Time": 321.63,
     "Best10": 8.71,
     "Best": 8.6,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 80,
@@ -1180,7 +1180,7 @@
     "Result_Time": 284.31,
     "Best10": 0,
     "Best": 14.23,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 92,
@@ -1622,7 +1622,7 @@
     "Result_Time": 351.81,
     "Best10": 26.7,
     "Best": 16.89,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 126,
@@ -1778,7 +1778,7 @@
     "Result_Time": 367.37,
     "Best10": 8.3,
     "Best": 8.15,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 138,
@@ -2181,7 +2181,7 @@
     "Result_Time": 364.79,
     "Best10": 8.6,
     "Best": 8.52,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 169,
@@ -2792,7 +2792,7 @@
     "Result_Time": 331.99,
     "Best10": 9.13,
     "Best": 8.96,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 211,
@@ -3169,7 +3169,7 @@
     "Result_Time": 362.73,
     "Best10": 8.37,
     "Best": 8.25,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 240,
@@ -4261,7 +4261,7 @@
     "Result_Time": 367.93,
     "Best10": 9.48,
     "Best": 9.23,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 324,
@@ -5067,7 +5067,7 @@
     "Result_Time": 361.31,
     "Best10": 8.34,
     "Best": 8.22,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 386,
@@ -5431,7 +5431,7 @@
     "Result_Time": 362.13,
     "Best10": 8.43,
     "Best": 8.35,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 414,
@@ -5600,7 +5600,7 @@
     "Result_Time": 364.48,
     "Best10": 9.21,
     "Best": 9.09,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 427,
@@ -5873,7 +5873,7 @@
     "Result_Time": 362.92,
     "Best10": 8.51,
     "Best": 8.43,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 448,
@@ -6328,7 +6328,7 @@
     "Result_Time": 347.84,
     "Best10": 12.37,
     "Best": 11.89,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 483,
@@ -6666,7 +6666,7 @@
     "Result_Time": 362.72,
     "Best10": 9.23,
     "Best": 9.06,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 509,
@@ -7368,7 +7368,7 @@
     "Result_Time": 360.83,
     "Best10": 10.33,
     "Best": 9.91,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 563,
@@ -7745,7 +7745,7 @@
     "Result_Time": 365.33,
     "Best10": 8.19,
     "Best": 8.11,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 592,
@@ -8304,7 +8304,7 @@
     "Result_Time": 367.38,
     "Best10": 8.16,
     "Best": 8.01,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 627,
@@ -9357,7 +9357,7 @@
     "Result_Time": 353.34,
     "Best10": 9.82,
     "Best": 9.55,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 708,
@@ -9799,7 +9799,7 @@
     "Result_Time": 320.96,
     "Best10": 8.45,
     "Best": 8.33,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 742,
@@ -10020,7 +10020,7 @@
     "Result_Time": 325.23,
     "Best10": 9.27,
     "Best": 9.15,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 759,
@@ -10449,7 +10449,7 @@
     "Result_Time": 324.98,
     "Best10": 8.81,
     "Best": 8.63,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 792,
@@ -11021,7 +11021,7 @@
     "Result_Time": 322.49,
     "Best10": 8.81,
     "Best": 8.7,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 836,
@@ -11775,7 +11775,7 @@
     "Result_Time": 361.38,
     "Best10": 8.54,
     "Best": 8.44,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 894,
@@ -12295,7 +12295,7 @@
     "Result_Time": 363.94,
     "Best10": 8.35,
     "Best": 8.28,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 934,
@@ -12893,7 +12893,7 @@
     "Result_Time": 363.49,
     "Best10": 9.36,
     "Best": 9.24,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 980,
@@ -13257,7 +13257,7 @@
     "Result_Time": 361.12,
     "Best10": 9.65,
     "Best": 9.28,
-    "Series_Calcd": 1
+    "Series_Calcd": 0
   },
   {
     "UserEventId": 1008,
