@@ -1,0 +1,18 @@
+[
+  {
+    "ShopId": 1,
+    "Shop_Name": "MB Models",
+    "Address 1": "Rothwell Lane",
+    "Address 2": null,
+    "Address 3": null,
+    "City": "Leeds",
+    "County": "Yorkshire",
+    "PostCode": "LS26 8HN",
+    "Shop_Website": "https://www.rccarshop.co.uk/",
+    "Shop_Email": "sales@rccarshop.co.uk",
+    "Shop_Telephone": 1132603330,
+    "Start_Date": "2010-01-01",
+    "End_Date": null,
+    "Picture": null
+  }
+]

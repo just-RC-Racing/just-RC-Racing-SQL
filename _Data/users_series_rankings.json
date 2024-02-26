@@ -1,188 +1,28 @@
 [
   {
-    "UserId": 1,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 1,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 1,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 2,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 2,
-    "SeriesId": 2,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 2,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
     "UserId": 3,
-    "SeriesId": 3,
-    "ClubRankId": 2
+    "SeriesId": 1,
+    "ClubRankId": 1
   },
   {
     "UserId": 3,
     "SeriesId": 2,
-    "ClubRankId": 2
+    "ClubRankId": 1
   },
   {
     "UserId": 3,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 16,
     "SeriesId": 1,
     "ClubRankId": 2
   },
   {
-    "UserId": 4,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 5,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 5,
+    "UserId": 16,
     "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 5,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 6,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 6,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 6,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 7,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 8,
-    "SeriesId": 3,
     "ClubRankId": 2
-  },
-  {
-    "UserId": 8,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 8,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 9,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 9,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 9,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 10,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 10,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 11,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 11,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 11,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 12,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 12,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 12,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 13,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 14,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 14,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 14,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 15,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 15,
-    "SeriesId": 1,
-    "ClubRankId": 3
   },
   {
     "UserId": 16,
@@ -190,262 +30,27 @@
     "ClubRankId": 3
   },
   {
-    "UserId": 16,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 16,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 17,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 17,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 17,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 19,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 19,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 19,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 20,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 20,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 21,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 21,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 22,
-    "SeriesId": 3,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 22,
-    "SeriesId": 2,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 22,
+    "UserId": 18,
     "SeriesId": 1,
     "ClubRankId": 2
   },
   {
-    "UserId": 23,
+    "UserId": 18,
     "SeriesId": 2,
     "ClubRankId": 2
   },
   {
-    "UserId": 23,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 24,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 24,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 24,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 25,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 25,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 25,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 26,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 27,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 27,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 27,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 28,
+    "UserId": 18,
     "SeriesId": 3,
     "ClubRankId": 2
-  },
-  {
-    "UserId": 28,
-    "SeriesId": 2,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 28,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 29,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 29,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 29,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 30,
-    "SeriesId": 2,
-    "ClubRankId": 3
   },
   {
     "UserId": 30,
     "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 31,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 32,
-    "SeriesId": 1,
     "ClubRankId": 3
   },
   {
-    "UserId": 33,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 33,
-    "SeriesId": 2,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 33,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 34,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 34,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 34,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 35,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 35,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 35,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 36,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 36,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 36,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 37,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 37,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 37,
+    "UserId": 38,
     "SeriesId": 1,
     "ClubRankId": 3
   },
@@ -456,346 +61,676 @@
   },
   {
     "UserId": 38,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 39,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 39,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 40,
     "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 40,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 40,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 41,
-    "SeriesId": 2,
     "ClubRankId": 3
   },
   {
-    "UserId": 41,
+    "UserId": 42,
     "SeriesId": 1,
     "ClubRankId": 3
   },
   {
     "UserId": 42,
-    "SeriesId": 3,
-    "ClubRankId": 1
+    "SeriesId": 2,
+    "ClubRankId": 3
   },
   {
     "UserId": 42,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 42,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 43,
     "SeriesId": 3,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 43,
-    "SeriesId": 2,
-    "ClubRankId": 2
+    "ClubRankId": 3
   },
   {
     "UserId": 43,
     "SeriesId": 1,
-    "ClubRankId": 2
+    "ClubRankId": 3
   },
   {
     "UserId": 44,
     "SeriesId": 1,
-    "ClubRankId": 3
+    "ClubRankId": 1
   },
   {
-    "UserId": 45,
+    "UserId": 44,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 44,
+    "SeriesId": 3,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 47,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 47,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 47,
     "SeriesId": 3,
     "ClubRankId": 1
   },
   {
-    "UserId": 45,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 45,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 46,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 47,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 47,
+    "UserId": 48,
     "SeriesId": 1,
     "ClubRankId": 2
   },
   {
-    "UserId": 48,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 48,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 48,
+    "UserId": 49,
     "SeriesId": 1,
     "ClubRankId": 3
   },
   {
     "UserId": 49,
     "SeriesId": 2,
-    "ClubRankId": 2
+    "ClubRankId": 3
   },
   {
     "UserId": 49,
-    "SeriesId": 1,
-    "ClubRankId": 2
-  },
-  {
-    "UserId": 50,
     "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 50,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 50,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 51,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 51,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 51,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 52,
-    "SeriesId": 1,
     "ClubRankId": 3
   },
   {
     "UserId": 53,
-    "SeriesId": 3,
-    "ClubRankId": 2
+    "SeriesId": 1,
+    "ClubRankId": 1
   },
   {
     "UserId": 53,
     "SeriesId": 2,
-    "ClubRankId": 2
+    "ClubRankId": 1
   },
   {
     "UserId": 53,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 63,
     "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 70,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 70,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 70,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 70,
+    "SeriesId": 3,
     "ClubRankId": 2
   },
   {
-    "UserId": 54,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 54,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 54,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 55,
-    "SeriesId": 3,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 55,
-    "SeriesId": 2,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 55,
-    "SeriesId": 1,
-    "ClubRankId": 1
-  },
-  {
-    "UserId": 56,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 56,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 56,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 57,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 58,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 58,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 58,
-    "SeriesId": 1,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 80,
-    "SeriesId": 3,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 104,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 114,
+    "UserId": 72,
     "SeriesId": 2,
     "ClubRankId": 2
   },
   {
-    "UserId": 120,
+    "UserId": 75,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 79,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 79,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 79,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 81,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 81,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 81,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 87,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 87,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 91,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 91,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 91,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 92,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 92,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 94,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 94,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 99,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 99,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 99,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 99,
+    "SeriesId": 3,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 99,
+    "SeriesId": 3,
+    "ClubRankId": 5
+  },
+  {
+    "UserId": 101,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 101,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 101,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 105,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 105,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 117,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 117,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 117,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 119,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 121,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 121,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 121,
     "SeriesId": 3,
     "ClubRankId": 3
   },
   {
     "UserId": 126,
-    "SeriesId": 3,
-    "ClubRankId": 3
+    "SeriesId": 1,
+    "ClubRankId": 2
   },
   {
     "UserId": 126,
     "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 126,
+    "SeriesId": 3,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 130,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 130,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 131,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 131,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 131,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 133,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 136,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 156,
+    "SeriesId": 1,
     "ClubRankId": 3
   },
   {
     "UserId": 157,
     "SeriesId": 3,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 158,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 158,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 158,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 160,
+    "SeriesId": 1,
     "ClubRankId": 1
   },
   {
-    "UserId": 157,
+    "UserId": 160,
     "SeriesId": 2,
-    "ClubRankId": 2
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 160,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 162,
+    "SeriesId": 1,
+    "ClubRankId": 1
   },
   {
     "UserId": 162,
     "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 162,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 163,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 163,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 163,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 163,
+    "SeriesId": 3,
+    "ClubRankId": 4
+  },
+  {
+    "UserId": 171,
+    "SeriesId": 1,
     "ClubRankId": 3
   },
   {
-    "UserId": 168,
+    "UserId": 171,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 171,
     "SeriesId": 3,
     "ClubRankId": 3
   },
   {
-    "UserId": 180,
-    "SeriesId": 3,
+    "UserId": 172,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 175,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 178,
+    "SeriesId": 1,
     "ClubRankId": 2
   },
   {
     "UserId": 180,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 180,
     "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 180,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 180,
+    "SeriesId": 3,
     "ClubRankId": 3
   },
   {
     "UserId": 181,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 210,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 210,
     "SeriesId": 2,
-    "ClubRankId": 3
+    "ClubRankId": 1
   },
   {
-    "UserId": 241,
+    "UserId": 210,
     "SeriesId": 3,
-    "ClubRankId": 3
+    "ClubRankId": 1
   },
   {
-    "UserId": 243,
+    "UserId": 218,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 218,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 218,
     "SeriesId": 3,
     "ClubRankId": 2
   },
   {
-    "UserId": 245,
-    "SeriesId": 3,
+    "UserId": 223,
+    "SeriesId": 1,
     "ClubRankId": 3
   },
   {
-    "UserId": 260,
-    "SeriesId": 3,
+    "UserId": 224,
+    "SeriesId": 1,
     "ClubRankId": 1
   },
   {
-    "UserId": 260,
-    "SeriesId": 2,
-    "ClubRankId": 3
-  },
-  {
-    "UserId": 261,
+    "UserId": 224,
     "SeriesId": 2,
     "ClubRankId": 1
   },
   {
-    "UserId": 278,
+    "UserId": 224,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 234,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 234,
+    "SeriesId": 3,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 244,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 249,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 250,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 254,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 255,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 255,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 256,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 256,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 256,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 257,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 262,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 262,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 262,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 267,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 274,
+    "SeriesId": 1,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 274,
+    "SeriesId": 2,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 274,
+    "SeriesId": 3,
+    "ClubRankId": 2
+  },
+  {
+    "UserId": 277,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 277,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 277,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 283,
+    "SeriesId": 1,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 283,
+    "SeriesId": 2,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 283,
+    "SeriesId": 3,
+    "ClubRankId": 1
+  },
+  {
+    "UserId": 288,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 288,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 288,
+    "SeriesId": 3,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 293,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 303,
+    "SeriesId": 1,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 303,
+    "SeriesId": 2,
+    "ClubRankId": 3
+  },
+  {
+    "UserId": 303,
     "SeriesId": 3,
     "ClubRankId": 3
   }

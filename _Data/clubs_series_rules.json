@@ -2,13 +2,12 @@
   {
     "SeriesRulesId": 1,
     "SeriesId": 1,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 1,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 11,
     "Rounds_To_Count": 8,
     "Tie_Break_Rule": "Countback"
@@ -16,13 +15,12 @@
   {
     "SeriesRulesId": 2,
     "SeriesId": 2,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 1,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -30,13 +28,12 @@
   {
     "SeriesRulesId": 3,
     "SeriesId": 2,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 1,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -44,13 +41,12 @@
   {
     "SeriesRulesId": 4,
     "SeriesId": 3,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 1,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 11,
     "Rounds_To_Count": 8,
     "Tie_Break_Rule": "Countback"
@@ -58,13 +54,12 @@
   {
     "SeriesRulesId": 5,
     "SeriesId": 3,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 1,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 11,
     "Rounds_To_Count": 8,
     "Tie_Break_Rule": "Countback"
@@ -72,13 +67,12 @@
   {
     "SeriesRulesId": 6,
     "SeriesId": 4,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -86,13 +80,12 @@
   {
     "SeriesRulesId": 7,
     "SeriesId": 4,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -100,13 +93,12 @@
   {
     "SeriesRulesId": 8,
     "SeriesId": 5,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -114,13 +106,12 @@
   {
     "SeriesRulesId": 9,
     "SeriesId": 5,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -128,13 +119,12 @@
   {
     "SeriesRulesId": 10,
     "SeriesId": 5,
-    "VehicleClassId": 5,
+    "VehicleClassId": 9,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -142,13 +132,12 @@
   {
     "SeriesRulesId": 11,
     "SeriesId": 6,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -156,13 +145,12 @@
   {
     "SeriesRulesId": 12,
     "SeriesId": 6,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -170,13 +158,12 @@
   {
     "SeriesRulesId": 13,
     "SeriesId": 6,
-    "VehicleClassId": 5,
+    "VehicleClassId": 9,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -184,13 +171,12 @@
   {
     "SeriesRulesId": 14,
     "SeriesId": 7,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -198,13 +184,12 @@
   {
     "SeriesRulesId": 15,
     "SeriesId": 7,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -212,13 +197,12 @@
   {
     "SeriesRulesId": 16,
     "SeriesId": 7,
-    "VehicleClassId": 3,
+    "VehicleClassId": 2,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -226,13 +210,12 @@
   {
     "SeriesRulesId": 17,
     "SeriesId": 7,
-    "VehicleClassId": 4,
+    "VehicleClassId": 3,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -240,13 +223,12 @@
   {
     "SeriesRulesId": 18,
     "SeriesId": 7,
-    "VehicleClassId": 5,
+    "VehicleClassId": 9,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -254,13 +236,12 @@
   {
     "SeriesRulesId": 19,
     "SeriesId": 8,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -268,13 +249,12 @@
   {
     "SeriesRulesId": 20,
     "SeriesId": 8,
-    "VehicleClassId": 2,
+    "VehicleClassId": 1,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": null,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -282,13 +262,12 @@
   {
     "SeriesRulesId": 21,
     "SeriesId": 9,
-    "VehicleClassId": 1,
+    "VehicleClassId": 4,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -296,13 +275,12 @@
   {
     "SeriesRulesId": 22,
     "SeriesId": 10,
-    "VehicleClassId": 6,
+    "VehicleClassId": 22,
     "Ranked": 0,
     "TQ_Bonus": 1,
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -310,13 +288,12 @@
   {
     "SeriesRulesId": 23,
     "SeriesId": 10,
-    "VehicleClassId": 7,
+    "VehicleClassId": 23,
     "Ranked": 0,
     "TQ_Bonus": 0,
     "Legs": 1,
     "Legs_No": 3,
     "Legs_Rules": "Best 2 To Count: Then Tie Break",
-    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"

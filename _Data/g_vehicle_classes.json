@@ -1,30 +1,30 @@
 [
   {
-    "VehicleClassId": 1,
-    "Class": "Onroad 1/12th GT12"
+    "ClassId": 1,
+    "Class": "Onroad 1/12th"
   },
   {
-    "VehicleClassId": 2,
-    "Class": "Onroad 1/12th LMP Stock"
+    "ClassId": 2,
+    "Class": "Onroad 1/10th"
   },
   {
-    "VehicleClassId": 3,
-    "Class": "Onroad 1/12th LMP Mod"
+    "ClassId": 3,
+    "Class": "Onroad 1/8th"
   },
   {
-    "VehicleClassId": 4,
-    "Class": "Onroad 1/12th LMP GT"
+    "ClassId": 4,
+    "Class": "Onroad 1/5th"
   },
   {
-    "VehicleClassId": 5,
-    "Class": "Onroad 1/10th Fronties"
+    "ClassId": 5,
+    "Class": "Offroad 1/10th"
   },
   {
-    "VehicleClassId": 6,
-    "Class": "Onroad 1/8th IC"
+    "ClassId": 6,
+    "Class": "Offroad 1/8th"
   },
   {
-    "VehicleClassId": 7,
-    "Class": "Onroad 1/8th Electric"
+    "ClassId": 7,
+    "Class": "Offroad 1/5th"
   }
 ]

@@ -1,0 +1,158 @@
+[
+  {
+    "ClubId": 1,
+    "VehicleClassId": 4
+  },
+  {
+    "ClubId": 2,
+    "VehicleClassId": 1
+  },
+  {
+    "ClubId": 2,
+    "VehicleClassId": 2
+  },
+  {
+    "ClubId": 2,
+    "VehicleClassId": 3
+  },
+  {
+    "ClubId": 2,
+    "VehicleClassId": 4
+  },
+  {
+    "ClubId": 2,
+    "VehicleClassId": 9
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 1
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 2
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 3
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 4
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 9
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 13
+  },
+  {
+    "ClubId": 3,
+    "VehicleClassId": 28
+  },
+  {
+    "ClubId": 4,
+    "VehicleClassId": 22
+  },
+  {
+    "ClubId": 4,
+    "VehicleClassId": 23
+  },
+  {
+    "ClubId": 5,
+    "VehicleClassId": 8
+  },
+  {
+    "ClubId": 5,
+    "VehicleClassId": 22
+  },
+  {
+    "ClubId": 5,
+    "VehicleClassId": 23
+  },
+  {
+    "ClubId": 5,
+    "VehicleClassId": 17
+  },
+  {
+    "ClubId": 6,
+    "VehicleClassId": 1
+  },
+  {
+    "ClubId": 6,
+    "VehicleClassId": 2
+  },
+  {
+    "ClubId": 6,
+    "VehicleClassId": 3
+  },
+  {
+    "ClubId": 6,
+    "VehicleClassId": 4
+  },
+  {
+    "ClubId": 7,
+    "VehicleClassId": 8
+  },
+  {
+    "ClubId": 7,
+    "VehicleClassId": 22
+  },
+  {
+    "ClubId": 7,
+    "VehicleClassId": 23
+  },
+  {
+    "ClubId": 7,
+    "VehicleClassId": 17
+  },
+  {
+    "ClubId": 8,
+    "VehicleClassId": 1
+  },
+  {
+    "ClubId": 8,
+    "VehicleClassId": 2
+  },
+  {
+    "ClubId": 8,
+    "VehicleClassId": 3
+  },
+  {
+    "ClubId": 8,
+    "VehicleClassId": 4
+  },
+  {
+    "ClubId": 9,
+    "VehicleClassId": 1
+  },
+  {
+    "ClubId": 9,
+    "VehicleClassId": 2
+  },
+  {
+    "ClubId": 9,
+    "VehicleClassId": 3
+  },
+  {
+    "ClubId": 9,
+    "VehicleClassId": 4
+  },
+  {
+    "ClubId": 10,
+    "VehicleClassId": 8
+  },
+  {
+    "ClubId": 10,
+    "VehicleClassId": 22
+  },
+  {
+    "ClubId": 10,
+    "VehicleClassId": 23
+  },
+  {
+    "ClubId": 10,
+    "VehicleClassId": 17
+  }
+]

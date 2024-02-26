@@ -13,5 +13,15 @@
     "ClubRankId": 3,
     "ClubId": 1,
     "Rank": "F3"
+  },
+  {
+    "ClubRankId": 4,
+    "ClubId": 1,
+    "Rank": "F4"
+  },
+  {
+    "ClubRankId": 5,
+    "ClubId": 1,
+    "Rank": "F5"
   }
 ]
