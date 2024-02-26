@@ -2,9 +2,9 @@
   {
     "ShopId": 1,
     "Shop_Name": "MB Models",
-    "Address 1": "Rothwell Lane",
-    "Address 2": null,
-    "Address 3": null,
+    "Address_1": "Rothwell Lane",
+    "Address_2": null,
+    "Address_3": null,
     "City": "Leeds",
     "County": "Yorkshire",
     "PostCode": "LS26 8HN",

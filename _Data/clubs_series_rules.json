@@ -8,6 +8,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 11,
     "Rounds_To_Count": 8,
     "Tie_Break_Rule": "Countback"
@@ -21,6 +22,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 200,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -34,6 +36,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 200,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -47,6 +50,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 11,
     "Rounds_To_Count": 8,
     "Tie_Break_Rule": "Countback"
@@ -60,6 +64,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 11,
     "Rounds_To_Count": 8,
     "Tie_Break_Rule": "Countback"
@@ -73,6 +78,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -86,6 +92,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -99,6 +106,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -112,6 +120,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -125,6 +134,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -138,6 +148,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -151,6 +162,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -164,6 +176,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -177,6 +190,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -190,6 +204,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -203,6 +218,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -216,6 +232,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -229,6 +246,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 4,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -242,6 +260,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -255,6 +274,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": null,
     "Rounds_To_Count": null,
     "Tie_Break_Rule": null
@@ -268,6 +288,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 5,
     "Rounds_To_Count": 3,
     "Tie_Break_Rule": "Countback"
@@ -281,6 +302,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
+    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -294,6 +316,7 @@
     "Legs": 1,
     "Legs_No": 3,
     "Legs_Rules": "Best 2 To Count: Then Tie Break",
+    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
