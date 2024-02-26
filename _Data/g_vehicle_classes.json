@@ -1,30 +1,152 @@
 [
   {
-    "ClassId": 1,
-    "Class": "Onroad 1/12th"
+    "VehicleClassId": 1,
+    "ParentClassId": 1,
+    "Class": "LMP Stock"
   },
   {
-    "ClassId": 2,
-    "Class": "Onroad 1/10th"
+    "VehicleClassId": 2,
+    "ParentClassId": 1,
+    "Class": "LMP Mod"
   },
   {
-    "ClassId": 3,
-    "Class": "Onroad 1/8th"
+    "VehicleClassId": 3,
+    "ParentClassId": 1,
+    "Class": "LMP GT"
   },
   {
-    "ClassId": 4,
-    "Class": "Onroad 1/5th"
+    "VehicleClassId": 4,
+    "ParentClassId": 1,
+    "Class": "GT12"
   },
   {
-    "ClassId": 5,
-    "Class": "Offroad 1/10th"
+    "VehicleClassId": 5,
+    "ParentClassId": 1,
+    "Class": "Oval"
   },
   {
-    "ClassId": 6,
-    "Class": "Offroad 1/8th"
+    "VehicleClassId": 6,
+    "ParentClassId": 1,
+    "Class": "MTC"
   },
   {
-    "ClassId": 7,
-    "Class": "Offroad 1/5th"
+    "VehicleClassId": 7,
+    "ParentClassId": 1,
+    "Class": "Ministocks"
+  },
+  {
+    "VehicleClassId": 8,
+    "ParentClassId": 2,
+    "Class": "Touring Car"
+  },
+  {
+    "VehicleClassId": 9,
+    "ParentClassId": 2,
+    "Class": "Fronties"
+  },
+  {
+    "VehicleClassId": 10,
+    "ParentClassId": 2,
+    "Class": "Formula One"
+  },
+  {
+    "VehicleClassId": 11,
+    "ParentClassId": 2,
+    "Class": "Iconic"
+  },
+  {
+    "VehicleClassId": 12,
+    "ParentClassId": 2,
+    "Class": "Tamiya Euro Trucks"
+  },
+  {
+    "VehicleClassId": 13,
+    "ParentClassId": 5,
+    "Class": "2WD"
+  },
+  {
+    "VehicleClassId": 14,
+    "ParentClassId": 2,
+    "Class": "Stadium Truck"
+  },
+  {
+    "VehicleClassId": 15,
+    "ParentClassId": 2,
+    "Class": "Shortcourse Truck"
+  },
+  {
+    "VehicleClassId": 16,
+    "ParentClassId": 5,
+    "Class": "Iconic"
+  },
+  {
+    "VehicleClassId": 17,
+    "ParentClassId": 2,
+    "Class": "IC 200mm"
+  },
+  {
+    "VehicleClassId": 18,
+    "ParentClassId": 2,
+    "Class": "IC Sports GT"
+  },
+  {
+    "VehicleClassId": 19,
+    "ParentClassId": 2,
+    "Class": "Tamiya Mini"
+  },
+  {
+    "VehicleClassId": 20,
+    "ParentClassId": 3,
+    "Class": "GT Electric"
+  },
+  {
+    "VehicleClassId": 21,
+    "ParentClassId": 3,
+    "Class": "GT Nitro"
+  },
+  {
+    "VehicleClassId": 22,
+    "ParentClassId": 3,
+    "Class": "IC"
+  },
+  {
+    "VehicleClassId": 23,
+    "ParentClassId": 3,
+    "Class": "Electric"
+  },
+  {
+    "VehicleClassId": 24,
+    "ParentClassId": 6,
+    "Class": "Nitro Buggy"
+  },
+  {
+    "VehicleClassId": 25,
+    "ParentClassId": 6,
+    "Class": "Electric Buggy"
+  },
+  {
+    "VehicleClassId": 26,
+    "ParentClassId": 6,
+    "Class": "Truggy"
+  },
+  {
+    "VehicleClassId": 27,
+    "ParentClassId": 3,
+    "Class": "Stock Cars"
+  },
+  {
+    "VehicleClassId": 28,
+    "ParentClassId": 6,
+    "Class": "4WD"
+  },
+  {
+    "VehicleClassId": 29,
+    "ParentClassId": 7,
+    "Class": "Stock"
+  },
+  {
+    "VehicleClassId": 30,
+    "ParentClassId": 4,
+    "Class": "Stock"
   }
 ]

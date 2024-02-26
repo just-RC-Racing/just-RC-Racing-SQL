@@ -1,0 +1,30 @@
+[
+  {
+    "ParentClassId": 1,
+    "Parent_Class": "Onroad 1/12th"
+  },
+  {
+    "ParentClassId": 2,
+    "Parent_Class": "Onroad 1/10th"
+  },
+  {
+    "ParentClassId": 3,
+    "Parent_Class": "Onroad 1/8th"
+  },
+  {
+    "ParentClassId": 4,
+    "Parent_Class": "Onroad 1/5th"
+  },
+  {
+    "ParentClassId": 5,
+    "Parent_Class": "Offroad 1/10th"
+  },
+  {
+    "ParentClassId": 6,
+    "Parent_Class": "Offroad 1/8th"
+  },
+  {
+    "ParentClassId": 7,
+    "Parent_Class": "Offroad 1/5th"
+  }
+]
