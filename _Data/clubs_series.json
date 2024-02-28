@@ -78,5 +78,13 @@
     "Series_End_Date": "2023-08-30",
     "Championship": 1,
     "National_Series": 1
+  },
+  {
+    "SeriesId": 11,
+    "Series_Name": "BBC Super League 2024",
+    "Series_Start_Date": "2024-02-27",
+    "Series_End_Date": "2024-12-31",
+    "Championship": 1,
+    "National_Series": 0
   }
 ]

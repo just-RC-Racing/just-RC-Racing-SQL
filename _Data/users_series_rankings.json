@@ -733,5 +733,10 @@
     "UserId": 303,
     "SeriesId": 3,
     "ClubRankId": 3
+  },
+  {
+    "UserId": 305,
+    "SeriesId": 11,
+    "ClubRankId": 2
   }
 ]

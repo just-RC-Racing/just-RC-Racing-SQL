@@ -3220,5 +3220,14 @@
     "Chassis": "IF-18",
     "Power": "Nova",
     "Tyres": "Ulti"
+  },
+  {
+    "UserId": 305,
+    "VehicleClassId": 4,
+    "Transponder": 654321,
+    "Sponsors": "Schumacher",
+    "Chassis": "ATOM 3",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
   }
 ]

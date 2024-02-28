@@ -470,5 +470,13 @@
     "Round": 4,
     "Event_Date": "2023-09-02",
     "Event_Name": "TRRAC Summer Series 2023 Round 4"
+  },
+  {
+    "EventId": 60,
+    "ClubId": 1,
+    "SeriesId": 11,
+    "Round": 1,
+    "Event_Date": "2024-02-27",
+    "Event_Name": "BBC Super League 2024 Round 1"
   }
 ]

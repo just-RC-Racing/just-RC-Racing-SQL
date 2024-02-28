@@ -22,7 +22,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
+    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -36,7 +36,7 @@
     "Legs": 0,
     "Legs_No": null,
     "Legs_Rules": null,
-    "Max_Points": 200,
+    "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
@@ -316,6 +316,20 @@
     "Legs": 1,
     "Legs_No": 3,
     "Legs_Rules": "Best 2 To Count: Then Tie Break",
+    "Max_Points": 100,
+    "Rounds": 6,
+    "Rounds_To_Count": 4,
+    "Tie_Break_Rule": "Countback"
+  },
+  {
+    "SeriesRulesId": 24,
+    "SeriesId": 11,
+    "VehicleClassId": 4,
+    "Ranked": 1,
+    "TQ_Bonus": 0,
+    "Legs": 0,
+    "Legs_No": null,
+    "Legs_Rules": null,
     "Max_Points": 100,
     "Rounds": 6,
     "Rounds_To_Count": 4,
