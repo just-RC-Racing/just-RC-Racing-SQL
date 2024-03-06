@@ -10622,5 +10622,421 @@
     "Round": 4,
     "ClubRankId": null,
     "Points": 199
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1734,
+    "UserId": 171,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 74
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1735,
+    "UserId": 38,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 73
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1736,
+    "UserId": 121,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 72
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1737,
+    "UserId": 49,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 79
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1738,
+    "UserId": 101,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 78
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1739,
+    "UserId": 79,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 77
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1740,
+    "UserId": 303,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 76
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1741,
+    "UserId": 16,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 75
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1742,
+    "UserId": 47,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 86
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1743,
+    "UserId": 224,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 85
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1744,
+    "UserId": 255,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 84
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1745,
+    "UserId": 218,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 83
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1746,
+    "UserId": 249,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 82
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1747,
+    "UserId": 181,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 81
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1748,
+    "UserId": 99,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 80
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1749,
+    "UserId": 70,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 93
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1750,
+    "UserId": 210,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 92
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1751,
+    "UserId": 53,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 91
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1752,
+    "UserId": 274,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 90
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1753,
+    "UserId": 178,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 89
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1754,
+    "UserId": 126,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 88
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1755,
+    "UserId": 305,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 87
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1756,
+    "UserId": 162,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 100
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1757,
+    "UserId": 160,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 99
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1758,
+    "UserId": 283,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 98
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1759,
+    "UserId": 3,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 97
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1760,
+    "UserId": 105,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 96
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1761,
+    "UserId": 18,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 95
+  },
+  {
+    "SeriesId": 11,
+    "UserEventId": 1762,
+    "UserId": 117,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 94
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1763,
+    "UserId": 172,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 94
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1764,
+    "UserId": 131,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 97
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1765,
+    "UserId": 121,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 96
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1766,
+    "UserId": 171,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 95
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1767,
+    "UserId": 92,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 94
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1768,
+    "UserId": 38,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 93
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1770,
+    "UserId": 218,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 96
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1771,
+    "UserId": 288,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 100
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1772,
+    "UserId": 79,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 95
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1773,
+    "UserId": 303,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 99
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1774,
+    "UserId": 156,
+    "Round": 1,
+    "ClubRankId": 3,
+    "Points": 98
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1775,
+    "UserId": 70,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 95
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1776,
+    "UserId": 274,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 99
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1777,
+    "UserId": 53,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 94
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1778,
+    "UserId": 255,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 98
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1779,
+    "UserId": 126,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 97
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1780,
+    "UserId": 210,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 93
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1781,
+    "UserId": 162,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 100
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1782,
+    "UserId": 117,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 99
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1783,
+    "UserId": 305,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 98
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1784,
+    "UserId": 44,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 97
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1785,
+    "UserId": 224,
+    "Round": 1,
+    "ClubRankId": 1,
+    "Points": 96
+  },
+  {
+    "SeriesId": 12,
+    "UserEventId": 1786,
+    "UserId": 105,
+    "Round": 1,
+    "ClubRankId": 2,
+    "Points": 100
   }
 ]

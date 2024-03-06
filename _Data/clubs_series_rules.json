@@ -334,5 +334,19 @@
     "Rounds": 6,
     "Rounds_To_Count": 4,
     "Tie_Break_Rule": "Countback"
+  },
+  {
+    "SeriesRulesId": 25,
+    "SeriesId": 12,
+    "VehicleClassId": 4,
+    "Ranked": 1,
+    "TQ_Bonus": 0,
+    "Legs": 0,
+    "Legs_No": null,
+    "Legs_Rules": null,
+    "Max_Points": 100,
+    "Rounds": 9,
+    "Rounds_To_Count": 7,
+    "Tie_Break_Rule": "Countback"
   }
 ]

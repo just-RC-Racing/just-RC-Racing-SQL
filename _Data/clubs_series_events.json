@@ -478,5 +478,13 @@
     "Round": 1,
     "Event_Date": "2024-02-27",
     "Event_Name": "BBC Super League 2024 Round 1"
+  },
+  {
+    "EventId": 61,
+    "ClubId": 1,
+    "SeriesId": 12,
+    "Round": 1,
+    "Event_Date": "2024-03-05",
+    "Event_Name": "BBC Spring League 2024 Round 1"
   }
 ]

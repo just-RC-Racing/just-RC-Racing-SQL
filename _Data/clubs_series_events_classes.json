@@ -503,5 +503,10 @@
     "EventClassId": 101,
     "EventId": 60,
     "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 102,
+    "EventId": 61,
+    "VehicleClassId": 4
   }
 ]
