@@ -5,7 +5,8 @@
     "Series_Start_Date": "2023-10-01",
     "Series_End_Date": "2024-02-28",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 1
   },
   {
     "SeriesId": 2,
@@ -13,7 +14,8 @@
     "Series_Start_Date": "2023-03-01",
     "Series_End_Date": "2023-12-31",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 2
   },
   {
     "SeriesId": 3,
@@ -21,7 +23,8 @@
     "Series_Start_Date": "2023-06-01",
     "Series_End_Date": "2023-10-30",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 3
   },
   {
     "SeriesId": 4,
@@ -29,7 +32,8 @@
     "Series_Start_Date": "2000-01-01",
     "Series_End_Date": "3000-01-01",
     "Championship": 0,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 4
   },
   {
     "SeriesId": 5,
@@ -37,7 +41,8 @@
     "Series_Start_Date": "2000-01-01",
     "Series_End_Date": "3000-01-01",
     "Championship": 0,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 5
   },
   {
     "SeriesId": 6,
@@ -45,7 +50,8 @@
     "Series_Start_Date": "2023-10-01",
     "Series_End_Date": "2024-03-31",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 6
   },
   {
     "SeriesId": 7,
@@ -53,7 +59,8 @@
     "Series_Start_Date": "2023-05-01",
     "Series_End_Date": "2023-09-30",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 7
   },
   {
     "SeriesId": 8,
@@ -61,7 +68,8 @@
     "Series_Start_Date": "2023-12-30",
     "Series_End_Date": "2023-12-30",
     "Championship": 0,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 8
   },
   {
     "SeriesId": 9,
@@ -69,7 +77,8 @@
     "Series_Start_Date": "2023-09-01",
     "Series_End_Date": "2024-01-30",
     "Championship": 1,
-    "National_Series": 1
+    "National_Series": 1,
+    "Lookup": 9
   },
   {
     "SeriesId": 10,
@@ -77,22 +86,25 @@
     "Series_Start_Date": "2023-04-01",
     "Series_End_Date": "2023-08-30",
     "Championship": 1,
-    "National_Series": 1
+    "National_Series": 1,
+    "Lookup": 10
   },
   {
     "SeriesId": 11,
     "Series_Name": "BBC Super League 2024",
-    "Series_Start_Date": "27/02/2024",
-    "Series_End_Date": "31/12/2024",
+    "Series_Start_Date": "2024-02-27",
+    "Series_End_Date": "2024-12-31",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 11
   },
   {
     "SeriesId": 12,
     "Series_Name": "BBC Spring League 2024",
-    "Series_Start_Date": "05/03/2024",
-    "Series_End_Date": "31/12/2024",
+    "Series_Start_Date": "2024-03-05",
+    "Series_End_Date": "2024-12-31",
     "Championship": 1,
-    "National_Series": 0
+    "National_Series": 0,
+    "Lookup": 12
   }
  ]
