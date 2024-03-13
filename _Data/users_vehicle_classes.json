@@ -3226,8 +3226,17 @@
     "VehicleClassId": 4,
     "Transponder": 654321,
     "Sponsors": "Schumacher",
-    "Chassis": "ATOM 3",
+    "Chassis": "Atom 3",
+    "Power": "HobbyWing G4",
+    "Tyres": "Contact"
+  },
+  {
+    "UserId": 306,
+    "VehicleClassId": 4,
+    "Transponder": 654321,
+    "Sponsors": "Schumacher",
+    "Chassis": "Atom 3",
     "Power": "HobbyWing G4",
     "Tyres": "Contact"
   }
-]
+ ]

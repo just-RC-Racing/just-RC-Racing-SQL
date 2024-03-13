@@ -486,5 +486,21 @@
     "Round": 1,
     "Event_Date": "2024-03-05",
     "Event_Name": "BBC Spring League 2024 Round 1"
+  },
+  {
+    "EventId": 62,
+    "ClubId": 1,
+    "SeriesId": 12,
+    "Round": 2,
+    "Event_Date": "2024-03-12",
+    "Event_Name": "BBC Spring League 2024 Round 2"
+  },
+  {
+    "EventId": 63,
+    "ClubId": 2,
+    "SeriesId": 6,
+    "Round": 4,
+    "Event_Date": "2024-03-09",
+    "Event_Name": "TRRAC Series 2024 Round 5"
   }
-]
+ ]

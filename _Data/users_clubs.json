@@ -2778,5 +2778,10 @@
     "UserId": 305,
     "ClubId": 1,
     "Join_Date": "2000-01-01"
+  },
+  {
+    "UserId": 306,
+    "ClubId": 2,
+    "Join_Date": "2000-01-01"
   }
-]
+ ]

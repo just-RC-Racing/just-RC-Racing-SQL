@@ -82,17 +82,17 @@
   {
     "SeriesId": 11,
     "Series_Name": "BBC Super League 2024",
-    "Series_Start_Date": "2024-02-27",
-    "Series_End_Date": "2024-12-31",
+    "Series_Start_Date": "27/02/2024",
+    "Series_End_Date": "31/12/2024",
     "Championship": 1,
     "National_Series": 0
   },
   {
     "SeriesId": 12,
     "Series_Name": "BBC Spring League 2024",
-    "Series_Start_Date": "2024-03-05",
-    "Series_End_Date": "2024-12-31",
+    "Series_Start_Date": "05/03/2024",
+    "Series_End_Date": "31/12/2024",
     "Championship": 1,
     "National_Series": 0
   }
-]
+ ]

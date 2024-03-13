@@ -508,5 +508,25 @@
     "EventClassId": 102,
     "EventId": 61,
     "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 103,
+    "EventId": 62,
+    "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 104,
+    "EventId": 63,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 105,
+    "EventId": 63,
+    "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 106,
+    "EventId": 63,
+    "VehicleClassId": 9
   }
-]
+ ]
