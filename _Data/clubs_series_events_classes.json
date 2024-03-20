@@ -528,5 +528,40 @@
     "EventClassId": 106,
     "EventId": 63,
     "VehicleClassId": 9
+  },
+  {
+    "EventClassId": 107,
+    "EventId": 64,
+    "VehicleClassId": 4
+  },
+  {
+    "EventClassId": 108,
+    "EventId": 65,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 109,
+    "EventId": 66,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 110,
+    "EventId": 67,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 111,
+    "EventId": 68,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 112,
+    "EventId": 69,
+    "VehicleClassId": 1
+  },
+  {
+    "EventClassId": 113,
+    "EventId": 70,
+    "VehicleClassId": 1
   }
- ]
+]

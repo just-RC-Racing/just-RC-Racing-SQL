@@ -502,5 +502,69 @@
     "Round": 4,
     "Event_Date": "2024-03-09",
     "Event_Name": "TRRAC Series 2024 Round 5"
+  },
+  {
+    "EventId": 64,
+    "ClubId": 1,
+    "SeriesId": 4,
+    "Round": null,
+    "Event_Date": "2024-03-19",
+    "Event_Name": "BBC Club Night March 2024"
+  },
+  {
+    "EventId": 65,
+    "ClubId": 6,
+    "SeriesId": 13,
+    "Round": 1,
+    "Event_Date": "2024-01-20",
+    "Event_Name": "BRCA LMP National Series 2024 Round 1"
+  },
+  {
+    "EventId": 66,
+    "ClubId": 6,
+    "SeriesId": 13,
+    "Round": 2,
+    "Event_Date": "2024-01-21",
+    "Event_Name": "BRCA LMP National Series 2024 Round 2"
+  },
+  {
+    "EventId": 67,
+    "ClubId": 3,
+    "SeriesId": 13,
+    "Round": 3,
+    "Event_Date": "2024-02-17",
+    "Event_Name": "BRCA LMP National Series 2024 Round 3"
+  },
+  {
+    "EventId": 68,
+    "ClubId": 3,
+    "SeriesId": 13,
+    "Round": 4,
+    "Event_Date": "2024-02-18",
+    "Event_Name": "BRCA LMP National Series 2024 Round 4"
+  },
+  {
+    "EventId": 69,
+    "ClubId": 3,
+    "SeriesId": 13,
+    "Round": 5,
+    "Event_Date": "2024-03-16",
+    "Event_Name": "BRCA LMP National Series 2024 Round 5"
+  },
+  {
+    "EventId": 70,
+    "ClubId": 3,
+    "SeriesId": 13,
+    "Round": 6,
+    "Event_Date": "2024-03-17",
+    "Event_Name": "BRCA LMP National Series 2024 Round 6"
+  },
+  {
+    "EventId": null,
+    "ClubId": null,
+    "SeriesId": null,
+    "Round": null,
+    "Event_Date": "",
+    "Event_Name": ""
   }
- ]
+]

@@ -5,8 +5,7 @@
     "Series_Start_Date": "2023-10-01",
     "Series_End_Date": "2024-02-28",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 1
+    "National_Series": 0
   },
   {
     "SeriesId": 2,
@@ -14,8 +13,7 @@
     "Series_Start_Date": "2023-03-01",
     "Series_End_Date": "2023-12-31",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 2
+    "National_Series": 0
   },
   {
     "SeriesId": 3,
@@ -23,8 +21,7 @@
     "Series_Start_Date": "2023-06-01",
     "Series_End_Date": "2023-10-30",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 3
+    "National_Series": 0
   },
   {
     "SeriesId": 4,
@@ -32,8 +29,7 @@
     "Series_Start_Date": "2000-01-01",
     "Series_End_Date": "3000-01-01",
     "Championship": 0,
-    "National_Series": 0,
-    "Lookup": 4
+    "National_Series": 0
   },
   {
     "SeriesId": 5,
@@ -41,8 +37,7 @@
     "Series_Start_Date": "2000-01-01",
     "Series_End_Date": "3000-01-01",
     "Championship": 0,
-    "National_Series": 0,
-    "Lookup": 5
+    "National_Series": 0
   },
   {
     "SeriesId": 6,
@@ -50,8 +45,7 @@
     "Series_Start_Date": "2023-10-01",
     "Series_End_Date": "2024-03-31",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 6
+    "National_Series": 0
   },
   {
     "SeriesId": 7,
@@ -59,8 +53,7 @@
     "Series_Start_Date": "2023-05-01",
     "Series_End_Date": "2023-09-30",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 7
+    "National_Series": 0
   },
   {
     "SeriesId": 8,
@@ -68,8 +61,7 @@
     "Series_Start_Date": "2023-12-30",
     "Series_End_Date": "2023-12-30",
     "Championship": 0,
-    "National_Series": 0,
-    "Lookup": 8
+    "National_Series": 0
   },
   {
     "SeriesId": 9,
@@ -77,8 +69,7 @@
     "Series_Start_Date": "2023-09-01",
     "Series_End_Date": "2024-01-30",
     "Championship": 1,
-    "National_Series": 1,
-    "Lookup": 9
+    "National_Series": 1
   },
   {
     "SeriesId": 10,
@@ -86,8 +77,7 @@
     "Series_Start_Date": "2023-04-01",
     "Series_End_Date": "2023-08-30",
     "Championship": 1,
-    "National_Series": 1,
-    "Lookup": 10
+    "National_Series": 1
   },
   {
     "SeriesId": 11,
@@ -95,8 +85,7 @@
     "Series_Start_Date": "2024-02-27",
     "Series_End_Date": "2024-12-31",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 11
+    "National_Series": 0
   },
   {
     "SeriesId": 12,
@@ -104,7 +93,14 @@
     "Series_Start_Date": "2024-03-05",
     "Series_End_Date": "2024-12-31",
     "Championship": 1,
-    "National_Series": 0,
-    "Lookup": 12
+    "National_Series": 0
+  },
+  {
+    "SeriesId": 13,
+    "Series_Name": "BRCA LMP National Series 2024",
+    "Series_Start_Date": "2024-01-20",
+    "Series_End_Date": "2024-03-17",
+    "Championship": 1,
+    "National_Series": 1
   }
- ]
+]
