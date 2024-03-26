@@ -558,13 +558,5 @@
     "Round": 6,
     "Event_Date": "2024-03-17",
     "Event_Name": "BRCA LMP National Series 2024 Round 6"
-  },
-  {
-    "EventId": null,
-    "ClubId": null,
-    "SeriesId": null,
-    "Round": null,
-    "Event_Date": "",
-    "Event_Name": ""
   }
 ]
